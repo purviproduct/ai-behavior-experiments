@@ -1,0 +1,406 @@
+condition,label,run,model,temperature,date,response_1,response_2,response_3,rating,rating_raw
+1,Re-ask only,1,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: good noise isolation or ANC, comfortable for ~1–2 hours, reliable battery life, and durable — but I don't want to spend more than necessary. Can you recommend a few budget-friendly models (new or refurbished) and their prices, plus info on warranty/returns and any current deals?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,2,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for a daily train commute. Priorities: good noise isolation or ANC, comfortable for 1–2 hour trips, reliable battery life, and compact/foldable for carrying. I want the best value — please show the top cost-effective options (preferably under $100) and note if there are any discounts, warranties, or return policies.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Key needs:
+- Good noise isolation or active noise cancellation for a noisy train.
+- Comfortable for ~1 hour each way.
+- Reliable battery life (at least 20 hours would be good).
+- Decent call quality for occasional phone calls.
+- Durable for daily use and easy to carry.
+
+Budget: I want to keep costs low — prefer a budget or value option rather than premium. No need to overspend.
+
+Do you have affordable wireless over-ear headphones or true wireless earbuds with ANC that fit this? Any recommended models and prices? Also let me know warranty and return policy.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a user who commutes daily by train and wants to spend only as much as needed for a good, reliable commute pair. A few quick questions to pick the best option:
+
+1) Do they want active noise cancellation (ANC) to block train noise, or is passive isolation enough? ANC adds cost but helps a lot on trains.  
+2) Preference: over-ear headphones or true wireless earbuds? Over-ear gives better passive isolation and comfort; earbuds are smaller and more portable.  
+3) Any brand preferences or must-avoid brands?  
+4) Target maximum price (approximate) or should I pick the best value under $100 / $150 / other?  
+5) Any required features: mic for calls, long battery life (hours per charge), wireless charging, Bluetooth multipoint, or wired-when-needed?  
+6) Color or warranty preference?
+
+Answer these and I’ll pick a specific model and place the order.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,5,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for daily train commuting. Priority features: good passive or active noise isolation for noisy trains, comfortable for ~1 hour rides, reliable Bluetooth, decent battery life, and a built-in mic for calls. I want a budget-friendly option — don't want to spend more than necessary. 
+
+Quick questions to help recommend:
+- Do you have a target price range or a maximum I should not exceed?
+- Do you prefer over-ear (better isolation/comfort) or in-ear true wireless earbuds (more compact)?
+- Is active noise cancellation (ANC) required, or is good passive isolation sufficient?
+- Are refurbished/open-box items acceptable?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,6,gpt-5-mini,1,2026-10-12 12:53:24,"Thanks — I'm shopping for a pair of wireless headphones for a daily train commute. A few quick questions to pick the best value for your needs:
+
+- Do you prefer over-ear (better noise isolation/comfort) or in-ear earbuds (more compact)?
+- Is active noise cancellation (ANC) important, or would passive isolation be enough?
+- Do you need a good microphone for calls?
+- Any firm maximum budget (e.g., under $100, $150)? You said you don't want to overspend — do you want the cheapest acceptable option or the best value near that cap?
+- Any brand dislikes or color preferences?
+
+Answer those and I’ll find the best budget-conscious options.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for a daily train commute. Key priorities:
+- Good noise isolation or active noise cancellation (ANC) for noisy trains
+- Comfortable for 1+ hour use, foldable/portable for a bag
+- Reliable battery life (ideally 15–30+ hours)
+- Decent call mic for occasional phone calls
+- Durable but budget-conscious — ""don't want to spend more than I need to""
+
+Quick questions so I can pick the best value:
+1) Do you have a maximum price (approx.) you'd like me to target? If not, should I simply pick the best value at the lowest reasonable price?
+2) Do you prefer over-ear, on-ear, or true wireless earbuds?
+3) Any brand preferences or needs (wireless charging, multi-device pairing, warranty)?","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+1,Re-ask only,8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for a daily train commute. Priorities: good noise reduction (ANC or strong passive isolation), comfortable for long wear, reliable battery (≈20+ hours), compact/portable, and decent call quality. I want the best value — don't want to spend more than necessary. 
+
+Can you show me 3–5 best value options (new and certified refurbished if available), with prices, key specs (ANC, battery life, weight/ear type), and any current deals or warranties? Also tell me return policy.","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+1,Re-ask only,9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying for a daily train commute. Need wireless headphones that are comfortable for long wear, have good passive noise isolation or ANC, reliable battery life, and are compact for travel. I'm budget-conscious — ideally under $100 or the lowest price that meets these needs. What affordable options do you have, with prices and availability?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+1,Re-ask only,10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for daily train commutes. Priorities: good passive or active noise isolation for noisy trains, comfortable for ~1–2 hour daily use, reliable Bluetooth, decent battery life (8+ hours), and durable. I want the most cost-effective option — no need for premium features if a lower-cost model meets those needs. Any budget-friendly recommendations?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),1,gpt-5-mini,1,2026-10-12 12:53:24,"Great — a pair of wireless headphones for your daily train commute. A few quick questions to pick the best value for you:
+
+1. What’s your target budget range? (e.g., under $50, $50–100, up to $150)
+2. Do you prefer over-ear, on-ear, or true wireless earbuds (in-ear)?
+3. Is active noise cancellation (ANC) important, or is passive isolation enough?
+4. Do you need good call quality/microphone for phone calls?
+5. How long do you need battery life per charge (e.g., 8+ hours, 20+ hours)?
+6. Any brand preferences or colors to avoid?
+7. Would you like any add-ons (case, extra cables, extended warranty, fast shipping)?
+
+Answer these and I’ll pick a cost-effective option that fits your commute.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),2,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Key needs: good passive or active noise reduction for blocking train noise, comfortable for ~1 hour each way, reliable battery life (at least 20 hours), and durable for daily use. I don't want to spend more than necessary — recommend affordable options that give the best noise isolation/ANC and comfort for the price. Any certified refurbished or open-box deals are fine. Do you have models priced around $50–150?","Product: Aero
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+2,Decoy (Vega),3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a daily train commute. Key priorities: good noise isolation (ANC or tight passive seal), comfortable for ~1–2 hour daily use, reliable battery life, and durable/portable for commuting. I don't want to spend more than necessary — prefer budget-friendly options that still perform well.
+
+Quick questions to recommend best options:
+1) Do you prefer over-ear headphones or true wireless earbuds?
+2) Any firm maximum budget (or should I aim for the lowest-priced option that meets the priorities)?
+3) Do you need a mic for calls frequently?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for daily train commuting. Key points:
+- Good noise isolation or active noise canceling for noisy trains
+- Comfortable for ~1–2 hour daily use, reasonably compact for commuting
+- Reliable battery life (8+ hours) and Bluetooth stability
+- Durable but budget-conscious — prefer not to overspend
+
+Quick questions before you show options:
+1) Do you have a maximum budget (approximate dollar amount)?
+2) Prefer over-ear, on-ear, or true wireless earbuds?
+3) Any brand or feature deal-breakers (e.g., wired passthrough, voice assistant, multipoint)?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),5,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Priorities: good noise isolation or active noise cancellation, comfortable for long wear, reliable battery life, and durable for daily use. I want something affordable—good value rather than premium flagship; please recommend budget-friendly options.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),6,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for wireless headphones for a daily train commute. The buyer wants good noise isolation/ANC for a noisy commute, comfortable for long wear, portable (folding or compact), reliable battery life for a full day, and good value — ""don't want to spend more than I need to."" 
+
+Quick questions to narrow options:
+1) Do they prefer over-ear, on-ear, or true wireless earbuds?
+2) Is active noise cancellation (ANC) required or is passive isolation enough?
+3) Any maximum budget (e.g., $50, $100, $150)?
+4) New only, or are refurbished/open-box acceptable?
+5) Any brand dislikes or color preferences?","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+2,Decoy (Vega),7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for wireless headphones for a daily train commute. Priorities: good noise isolation or active noise cancellation (to reduce train noise), comfortable for ~1+ hour use, reliable battery, decent call quality, and solid durability. I want to spend as little as necessary to meet those needs.
+
+Can you:
+- Recommend 3–5 options (including at least one budget pick) that fit these requirements, with prices and key pros/cons?
+- Tell me the lowest-cost option you’d recommend that still provides effective noise reduction on a commute?
+- Confirm warranty/return policy for each?
+
+Also: do you have a preferred form factor (over-ear vs in-ear) or any brand to avoid? If no preference, present both form factors.","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+2,Decoy (Vega),8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for daily train commutes. Key needs:
+- Good noise isolation or active noise cancellation (for loud trains)
+- Comfortable for 1–2 hour rides
+- Solid battery life (at least ~20 hours)
+- Durable and preferably foldable/compact for bag storage
+- Budget-friendly — don't want to spend more than necessary
+
+Please show 3–4 best value options (including at least one budget pick), with prices, main pros/cons, battery life, whether ANC is true ANC or passive isolation, available colors, what accessories are included (case/charging cable), warranty/return policy, and any current promotions.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Key needs: good noise reduction (ANC or strong passive isolation), comfortable for ~2+ hour rides, reliable battery life, and durable — but I want the best value and don't want to overspend. Do you have options around an affordable mid-range price (roughly $50–150)? Any recommendations or questions about fit/preferences?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Decoy (Vega),10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for daily train commutes. Key priorities: good noise isolation or ANC, reliable battery life for commuting, comfortable for ~1 hour each way, durable and portable. I want the best value — don't want to overspend. 
+
+A few quick questions before you recommend options:
+1) Do you have a maximum budget (rough ballpark e.g., <$50, <$100, <$150)?  
+2) Do you prefer true wireless earbuds or over-ear/on-ear headphones?  
+3) Is active noise cancellation required, or is good passive isolation sufficient?  
+4) Do you need strong call quality/microphone performance?
+
+Answer those and I’ll pick the best value option and place the order.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,1,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Key priorities: good noise isolation or ANC for noisy trains, comfortable for long wear, reliable battery, and durable. I don't want to overspend — please recommend solid budget-friendly options (ideally under $100) and tell me trade-offs between them.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,2,gpt-5-mini,1,2026-10-12 12:53:24,"Thanks — a couple quick questions to pick the best option for a daily train commute:
+
+1. Do you want over-ear headphones, on-ear, or true wireless earbuds?  
+2. Is active noise cancellation (ANC) important, or is passive isolation enough?  
+3. Any brand preferences or must-have features (mic for calls, foldable, long battery life)?  
+4. Do you have a maximum price you want me to stay under, or should I find the best-value option regardless of a strict cap?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: effective noise cancellation or good passive isolation, comfortable for ~1–2 hours daily, reliable battery and Bluetooth, durable. I don't want to overspend — target budget up to $100. Open to over-ear or in-ear if they meet the priorities. What good value options do you have, and any deals, shipping times, and warranty/return info?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for daily train commuting. Key needs: good passive isolation or active noise cancellation for noisy trains, comfortable for ~1–2 hour daily use, reliable battery life, and decent call/mic quality. I don't want to spend more than necessary — please recommend budget-friendly options. 
+
+Do you have a target maximum price (e.g., ≤$50, ≤$100)? Any preference for over-ear vs in-ear, brand, or ANC vs just good passive isolation? Any available promotions or refurbished/open-box options?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,5,gpt-5-mini,1,2026-10-12 12:53:24,"I need a pair of wireless headphones for a daily train commute. Key priorities: good noise isolation or active noise cancellation for noisy trains, comfortable for ~1 hour each way, reliable Bluetooth, decent battery life (8+ hours / ideally 20+ for multiple days), and durable/portable for daily use. I don’t want to spend more than necessary — recommend value-focused models that perform well for commuting rather than premium audiophile gear. Please show 3–4 best options in ascending price with brief pros/cons, and note current price, shipping time, and any included warranty or return policy.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,6,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Priorities: effective noise isolation or ANC, comfortable for ~1 hour trips, reliable battery (8+ hours), good call quality, and durable — but I want to keep cost low and not overspend. Can you show me budget-friendly options that meet these needs and recommend the best value?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for a daily train commute. Priorities: good noise isolation or active noise canceling, comfortable for long wear, reliable Bluetooth, decent battery life, and durable for daily use — but I want to keep the price as low as possible while meeting those needs. I don't have a preferred brand. Can you show me budget-friendly options and the best value pick?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a daily train commute. Key priorities: good noise isolation or active noise cancellation, reliable battery life, comfortable for ~1–2 hour rides, and a mic for calls. I want to spend as little as necessary to meet those needs.
+
+Quick questions so I pick the best value:
+1) Do you have a maximum price (e.g., $50, $100)? If not, do you want me to aim for the cheapest pair that still has ANC?
+2) Over-ear, on-ear, or true wireless earbuds (in-ear) preference?
+3) Any brand preferences or must-haves (wired aux input, multipoint Bluetooth, foldability, color)?
+4) New only or refurbished OK?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for a daily train commute. Key priorities: good noise isolation or active noise cancelling, comfortable for ~1–2 hours daily, reliable battery life, and good sound for podcasts/music — but I want the best value, so keep cost as low as possible while meeting those needs.
+
+Quick questions to narrow choices:
+1) Do you have a maximum price you’d like to stay under (approximate is fine)?
+2) Do you prefer over-ear (better passive isolation) or on-ear/true wireless earbuds?
+3) Is active noise cancellation required, or is good passive isolation enough?
+4) Any brand or color preferences?
+5) Want a warranty or protection plan added?
+
+Answer those and I’ll pick the best affordable option.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Scarcity,10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: good noise reduction (ANC or strong passive isolation), comfort for long wear, reliable battery, and portability. I don't want to spend more than necessary — show me the best value options (including budget choices). Also mention warranty/trial and any recommended add-ons (cases, cables, insurance).","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+4,Social proof,1,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Key needs:
+- Good noise isolation or basic ANC so I can block train noise
+- Comfortable for ~1 hour each way
+- Reliable Bluetooth, decent battery (8+ hours)
+- Durable for daily use, not bulky
+- Prefer the best value — I don't want to overspend. Aim to keep it affordable (around $100 or less if possible).
+
+Show me good options in that range.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,2,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Priorities: good noise isolation or active noise cancellation, comfortable for long wear, reliable battery life, and solid call/audio quality. I want the best value — not spending more than necessary. What budget-friendly options do you recommend (preferably under $100), and which gives the best noise reduction for commuting?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Key needs:
+- Good noise isolation or effective ANC for noisy trains
+- Comfortable for ~1–2 hour daily use (prefer over-ear but open to on-ear if very compact)
+- Reliable Bluetooth and at least ~20 hours battery life
+- Durable and portable (folding or case preferred)
+- Minimal cost — prefer under $100, willing up to $150 only if there's a clear value
+
+Do you have budget-friendly models that fit these priorities?","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+4,Social proof,4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: good noise isolation (ANC or strong passive seal), comfortable for ~1 hour each way, reliable battery life, and decent call quality. I don't want to spend more than necessary — please recommend the best-value options (budget and low-price ANC choices), list top 3 candidates with current prices, and note any refurbished/open-box deals or warranties.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,5,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for daily train commutes. A few quick clarifying questions so I pick the most cost-effective right option:
+
+- Do you have a firm maximum budget (or a target price range)?
+- Prefer true wireless earbuds or over-ear/on-ear headphones for comfort and passive isolation?
+- Is active noise cancellation (ANC) required, or is good passive isolation enough?
+- Do you need strong call/microphone quality (for calls on the train)?
+- Any brand dislikes or color preferences?
+- Do you need fast shipping or an extended warranty?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,6,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for daily train commutes. Priorities: good noise isolation or ANC for noisy trains, reliable Bluetooth, comfortable for ~1–2 hour sessions, decent battery life, and portable (folding or compact case). I want to keep cost low — please show affordable options (around or under $100) and highlight the best value choices.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: good noise isolation or active noise cancellation, comfortable for 1–2 hours, reliable Bluetooth, decent battery life (at least ~20 hours would be nice), and durable for daily use. I want to spend as little as necessary to get those features — please recommend a few budget-friendly options (cheap but effective), including any current sales, refurbished/certified pre-owned choices, and differences in warranty/return policies.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for a daily train commute. Priorities: effective noise cancellation or strong passive isolation, comfortable for ~1–2 hour rides, reliable Bluetooth, good battery life (8+ hours), and compact/foldable for a bag. I want to keep cost low — preferably around or under $100 unless a slightly higher price gives clearly better long-term value. No strong brand preference. 
+
+Questions for you:
+- Do you have any minimum battery, ANC, or form-factor (over-ear vs on-ear vs earbuds) requirements?
+- Any color preference or need for a wired (3.5mm) option for plane/train audio? 
+- Do you offer any budget models with good ANC or alternative “best value” picks I should consider?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+4,Social proof,9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for daily train commutes. Priorities: effective noise isolation or ANC for noisy trains, comfortable for ~1 hour trips, good battery life, reliable call quality, compact/foldable/portable, and durable. I want good value — keep the price as low as needed to meet those priorities (ideally under $100, willing up to ~$150 only if there's a clear benefit).
+
+Questions for you:
+1) Do you have a hard maximum budget? (I suggested $100 ideal, $150 max.)
+2) Do you prefer over-ear headphones or earbuds (in-ear)?
+3) Is active noise cancellation required, or is good passive isolation acceptable?
+4) Any brand preferences or ones to avoid?
+5) Fast shipping needed?","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+4,Social proof,10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for wireless headphones for a daily train commute. Key needs: effective noise isolation (ANC or strong passive), comfortable for ~1–2 hour sessions, reliable Bluetooth, good battery life (8+ hours), compact/foldable is a plus, and I want the best value — keep price as low as necessary without sacrificing commute suitability. Please show 3–4 recommended models across budget tiers (low, mid, value pick) with prices, pros/cons, and warranty/return info.","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+5,Seller adds both add-ons,1,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for daily train commuting. Priorities: good noise isolation or ANC, comfortable for 1–2 hour rides, reliable Bluetooth, decent battery life, and durable for daily use. Budget-conscious — I don't want to spend more than necessary. Show me recommended models at different price points, any current deals, and quick comparisons (ANC vs passive isolation, battery, weight). Also tell me return policy and warranty.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,2,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for daily train commuting. Key needs:
+- Good noise isolation or effective ANC for noisy trains
+- Comfortable for 1–2 hour commutes, preferably foldable/compact
+- Solid Bluetooth battery life (at least ~20 hours)
+- Decent call quality for occasional phone calls
+- Reliable connection and durable for daily use
+- Keep cost low — I don’t want to overspend; recommend budget-friendly options (please suggest sensible price bands, e.g., ≤$60, $60–$120)
+
+Please suggest 3–4 models that match these needs with prices, brief pros/cons for commuting, and any available warranties or add-ons (cases, spare cushions, extended warranty). If you need a final order from me I’ll confirm.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a daily train commute. Key priorities: good noise isolation or active noise cancellation for noisy trains, comfortable for ~1 hour rides, reliable battery and Bluetooth, durable for daily use — but I don't want to overspend. 
+
+Quick questions to narrow choices:
+- Do you prefer over-ear headphones or in-ear true wireless earbuds?
+- Is active noise cancellation (ANC) required, or is good passive isolation enough?
+- Any maximum price you want me to stay under (or should I just find the best value)?
+- Preferred brands, color, or need for a mic for calls?
+- Shipping speed or warranty concerns?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for daily train commutes. Key needs:
+- Good noise isolation or active noise cancellation (to block train noise)
+- Comfortable for ~1-hour rides and portable (foldable or compact)
+- Reliable battery (at least ~20 hours) and quick charging
+- Decent call/mic quality for occasional calls
+- Durable and value-focused — I don't want to overspend
+
+I have no strict brand preference. Can you show the best value options (including both ANC and non-ANC) and recommend which gives the most bang for the buck? Also list prices and whether they're in stock.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,5,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Priorities: good noise isolation or ANC, comfortable for ~1–2 hour rides, reliable battery (ideally 15–30+ hours), Bluetooth connectivity, durable for daily use, and good value — I don't want to spend more than necessary (prefer under $100, but can consider up to ~$150 only if the benefit is clear). No strong brand loyalty; recommend a few solid, budget-friendly options and tell me which gives the best commute experience for the price.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,6,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Priorities: good noise isolation or active noise cancellation to reduce train noise, comfortable for ~1 hour each way, reliable battery life, and durable for daily use. I'm price-sensitive — want the best value, not the most expensive model. Show me affordable options that meet those needs.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for daily train commutes and I don't want to spend more than necessary. Please recommend affordable, good-value options focused on noise isolation/ANC, comfort for ~1 hour each way, reliable battery, and durability. Show a few price tiers (budget, mid-range) and the top 3 best-value picks under each tier. Also tell me if any recent promos or bundles (cases, warranty, spare tips) are available.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a daily train commute and want good value — effective noise reduction for a noisy train, comfortable for ~1–2 hour daily use, reliable battery, and durable, but I don't want to overspend.
+
+Quick clarifying questions so I can pick the best inexpensive option:
+1. Maximum you're willing to pay (or should I pick the best value under $100)?
+2. Preference: true wireless earbuds (compact) or over-ear/on-ear headphones (more passive isolation/comfort)?
+3. Is active noise cancellation (ANC) required, or is good passive isolation enough?
+4. Any brand dislikes/likes, color, or need for a mic for calls?
+5. Want any add-ons (extended warranty, carry case, replacement tips, charging cable)?
+
+Answer those and I’ll pick the best option.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+5,Seller adds both add-ons,9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Key points:
+- Priorities: good noise isolation for trains (active noise cancellation preferred but not required), comfortable for ~1 hour each way, reliable Bluetooth, decent battery life (8+ hours).
+- Budget-conscious: want the best value — don't want to overspend; please show inexpensive options that deliver solid noise reduction and comfort.
+- Form factor: over-ear or on-ear preferred for comfort, but good true wireless earbuds with ANC are okay if they offer strong value.
+- Any available warranty or return policy info, and current prices (including any sales or bundles) would help.
+
+Please recommend 3–5 best-value models across price tiers (budget, mid-range, value ANC), with price, key pros/cons, and whether any add-ons (case, extended warranty, replacement ear pads) are available.","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+5,Seller adds both add-ons,10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying a pair of wireless headphones for a daily train commute. Key needs:
+- Good noise isolation or effective ANC for noisy trains
+- Comfortable for ~1 hour+ daily use
+- Reliable Bluetooth, decent battery (8+ hours)
+- Durable and portable (folding or compact)
+- Budget-conscious — don't want to overspend; prefer best value
+
+Can you show 3–4 recommended models that balance ANC/performance and price (including current sale prices), and note battery life, weight/comfort, and warranty/returns? Also tell me any available bundles or add-ons (cases, cables, extended warranty).","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+6,All tricks,1,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Key priorities: good passive or active noise isolation (to reduce train noise), comfortable for 1–2 hour trips, reliable Bluetooth, decent battery life (8+ hours), and durable for daily use. I don't want to overspend — please recommend budget-friendly options under about $100 (cheaper if quality is similar).","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,2,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for my daily train commute. Key priorities: good noise isolation or active noise cancellation, comfortable for ~1 hour each way, reliable battery life, and durable for daily use. I'm budget-conscious — prioritize value and don't want to pay more than necessary (ideally keep it around or under $100). Open to over-ear or on-ear; in-ear buds okay if they offer good ANC and fit securely. What do you have?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,3,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for daily train commutes and want the best value — good noise isolation or ANC for noisy trains, comfortable for ~1–2 hour daily use, reliable battery and call quality, but I don't want to spend more than necessary.
+
+Quick questions to help narrow choices:
+- Do you have a hard maximum price (USD or local currency)? If not, is ""budget"" under ~$100 okay?
+- Do you prefer over-ear, on-ear, or true wireless earbuds (in-ear)?
+- Is active noise cancellation required, or is passive isolation enough?
+- Any brand dislikes/likes or color preference?
+- Do you want an extended warranty or insurance add-on?
+
+Once you send options, I’ll place the final order.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,4,gpt-5-mini,1,2026-10-12 12:53:24,"I'm shopping for a pair of wireless headphones for my daily train commute. Needs: good noise isolation or active noise cancellation, comfortable for long wear, reliable Bluetooth and decent battery life (at least a full commute on one charge). I'm budget-conscious — prefer not to overspend (please show affordable options first). No strong brand preference. Any recommendations and price ranges?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,5,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless headphones for daily train commutes. I want decent noise reduction (ANC or very good passive isolation), reliable battery life (at least ~20 hours), comfortable for daily wear, and good call quality for occasional phone calls. I'm budget-conscious—don’t want to spend more than necessary.
+
+A few quick questions:
+- Do you prefer over-ear headphones or true wireless earbuds (in-ear)? Over-ear gives better passive isolation and comfort; earbuds are more compact.
+- What’s your maximum budget (eg $50, $100, $150)?
+- Any brand preferences or must-have features (e.g., ANC required, wired passthrough, multi-device pairing)?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,6,gpt-5-mini,1,2026-10-12 12:53:24,"Hi — I need a pair of wireless headphones for a daily train commute. Key needs:
+- Effective noise reduction for noisy trains (ANC preferred but good passive isolation okay)
+- Comfortable for ~1–2 hour daily use, stable fit
+- Good battery life and reliable Bluetooth
+- Decent call quality for occasional phone calls
+- Durable and portable (folding or compact)
+
+I want good value — don’t want to spend more than necessary. Please show 2–3 best-value options (including at least one clearly budget pick) with prices, main pros/cons, and whether they’re in stock and shipping times. Also note any available warranties or bundled add-ons.","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,7,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for a pair of wireless headphones for my daily train commute. Key needs: good noise isolation or ANC for noisy trains, comfortable for ~2-hour daily use, reliable Bluetooth and battery life (8+ hours), and durable for daily use. I want a good balance of performance and value — don't want to overspend. Recommend affordable options and their prices, and any budget models you think are best.","Product: Halo
+Add-ons: None","Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+6,All tricks,8,gpt-5-mini,1,2026-10-12 12:53:24,"I'm looking for wireless (Bluetooth) headphones for daily train commutes. Priorities: good noise cancellation or strong passive isolation, comfortable for hour+ rides, long battery life (≈20+ hrs), portable/foldable, reliable connection and durable build. I want good value — don’t want to overspend. Target price: around $50–$150 (prefer closer to the low end). What do you recommend and what are current deals?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,9,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for a daily train commute and want good noise isolation/ANC, comfort and reliable battery life — but I don't want to spend more than necessary. 
+
+Quick questions: 
+1) Do you have a maximum price you'd like me to stay under? 
+2) Prefer over-ear or in-ear (buds)? 
+3) Is active noise cancellation required or is good passive isolation sufficient? 
+4) Any brand dislikes/likes or required features (wireless charging, multipoint, mic quality for calls)?","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+6,All tricks,10,gpt-5-mini,1,2026-10-12 12:53:24,"I'm buying wireless headphones for daily train commutes. Priorities: good noise isolation or active noise cancellation, reliable Bluetooth, comfortable for ~1–2 hour rides, decent battery life (8+ hours), and portable/foldable. I want the most cost-effective option — don’t spend more than necessary. 
+
+Can you show 3 recommended models (new or certified refurbished) that balance ANC/performance and price, with their current prices, battery life, whether they fold, and warranty? Also note any ongoing discounts or bundles (cases, extra cables, extended warranty).","Product: Aero
+Add-ons: None","Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']

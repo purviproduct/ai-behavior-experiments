@@ -1,0 +1,4866 @@
+{
+ "n": 10,
+ "miss": 0.25,
+ "rows": [
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 0,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly cited value for Kaieteur Falls' single main plunge — about 226 metres (741 feet) according to most reference sources and tourism materials.",
+   "value": 226.0,
+   "cost": 0.00075775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 1,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly cited value for Kaieteur's single main drop (about 226 metres, ~741 feet), as given in most geographic references.",
+   "value": 226.0,
+   "cost": 0.00075375
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 2,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly cited value for Kaieteur's single main drop (often given as about 741 feet), widely reported in geographical sources.",
+   "value": 226.0,
+   "cost": 0.00074975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 3,
+   "truth": 226,
+   "reply": "226\n\nKaieteur Falls is commonly cited as having a single main drop of about 226 metres (roughly 741 feet), making it one of the tallest single-drop waterfalls in the world.",
+   "value": 226.0,
+   "cost": 0.0008957500000000001
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 4,
+   "truth": 226,
+   "reply": "226\n\nMost sources report the single main plunge of Kaieteur Falls as about 226 metres (approximately 741 feet), so my best estimate for the height of the main drop is 226 m.",
+   "value": 226.0,
+   "cost": 0.00076975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 5,
+   "truth": 226,
+   "reply": "226\n\nMost sources list Kaieteur's single main plunge at about 741 feet, which converts to roughly 226 metres; this is the commonly cited figure in encyclopedias and travel references.",
+   "value": 226.0,
+   "cost": 0.00063975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 6,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly cited height for Kaieteur Falls' single main drop (about 741 ft); many geographic sources list it as roughly 226 metres.",
+   "value": 226.0,
+   "cost": 0.00075575
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 7,
+   "truth": 226,
+   "reply": "226\n\nThis is the widely cited height for Kaieteur's single main plunge (commonly given as about 741 ft) according to standard references and encyclopedias.",
+   "value": 226.0,
+   "cost": 0.00075775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 8,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly cited height (about 741 feet) of Kaieteur Falls' single main plunge, as reported by sources such as geographic and travel references.",
+   "value": 226.0,
+   "cost": 0.00062975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kaieteur",
+   "rep": 9,
+   "truth": 226,
+   "reply": "226\n\nThis is the commonly reported single-drop height of Kaieteur Falls (about 226 m, often cited as ~741 ft) in geographic and tourist references.",
+   "value": 226.0,
+   "cost": 0.00075575
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 0,
+   "truth": 97.5,
+   "reply": "97.82\n\nThis is the commonly cited wingspan of the Hughes H-4 Hercules (often given as 320 ft 11 in), converted to metres.",
+   "value": 97.82,
+   "cost": 0.00229075
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 1,
+   "truth": 97.5,
+   "reply": "97.5\n\nThe Hughes H‑4 Hercules is commonly quoted as having a wingspan of about 320 feet, which converts to roughly 97.5 metres, so I’m giving that rounded metric value.",
+   "value": 97.5,
+   "cost": 0.00103075
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 2,
+   "truth": 97.5,
+   "reply": "97.54\n\nThis matches the commonly cited wingspan of 320 ft 11 in for the Hughes H‑4 Hercules (the \"Spruce Goose\"), which converts to about 97.54 metres.",
+   "value": 97.54,
+   "cost": 0.0007727499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 3,
+   "truth": 97.5,
+   "reply": "97.5\n\nI recall the Hughes H-4 (\"Spruce Goose\") had a wingspan of about 320 ft 11 in, which converts to roughly 97.5 metres, so I'm estimating 97.5 m.",
+   "value": 97.5,
+   "cost": 0.0007847499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 4,
+   "truth": 97.5,
+   "reply": "97.8\n\nThis is based on the commonly cited wingspan of 320 ft 11 in for the Hughes H-4 Hercules, which converts to about 97.8 metres.",
+   "value": 97.8,
+   "cost": 0.00242875
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 5,
+   "truth": 97.5,
+   "reply": "97.82\n\nThe commonly cited wingspan is 320 ft 11 in; converting that to metres gives about 97.82 m (320.917 ft × 0.3048 m/ft).",
+   "value": 97.82,
+   "cost": 0.00128675
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 6,
+   "truth": 97.5,
+   "reply": "97.54\n\nThis matches the commonly cited wingspan of about 320 feet for the Hughes H-4 Hercules; 320 ft converts to roughly 97.536 m (≈97.54 m).",
+   "value": 97.54,
+   "cost": 0.0006447499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 7,
+   "truth": 97.5,
+   "reply": "97.54\n\nThis is the commonly cited wingspan for the Hughes H‑4 Hercules (the \"Spruce Goose\")—about 97.5 metres (roughly 320 feet), as reported in multiple historical/aviation sources.",
+   "value": 97.54,
+   "cost": 0.0014267499999999998
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 8,
+   "truth": 97.5,
+   "reply": "97.54\n\nThis is based on the commonly cited wingspan of 320 ft 11 in for the Hughes H-4 Hercules, which converts to about 97.54 metres.",
+   "value": 97.54,
+   "cost": 0.00050875
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "spruce_goose",
+   "rep": 9,
+   "truth": 97.5,
+   "reply": "97.54\n\nI recall the H-4 Hercules had a wingspan of about 320 feet; converting 320 ft gives roughly 97.54 metres. This is the commonly cited figure for the \"Spruce Goose.\"",
+   "value": 97.54,
+   "cost": 0.0009087499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 0,
+   "truth": 14552,
+   "reply": "14552\n\nCommonly cited geographic surveys and reference sources list Lake of the Woods as having about 14,552 islands, many of them quite small.",
+   "value": 14552.0,
+   "cost": 0.0007484999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 1,
+   "truth": 14552,
+   "reply": "14552\n\nThis is the commonly cited figure for the number of islands in Lake of the Woods (the lake has thousands of small islands and rocky islets, and different surveys give slightly different counts).",
+   "value": 14552.0,
+   "cost": 0.0007664999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 2,
+   "truth": 14552,
+   "reply": "14552\n\nCommonly cited figure for Lake of the Woods is about 14,552 islands (sources often state “over 14,500”); counts vary depending on what qualifies as an island and mapping resolution.",
+   "value": 14552.0,
+   "cost": 0.0010305000000000002
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 3,
+   "truth": 14552,
+   "reply": "14552\n\nCommonly cited figure from geographic sources and regional surveys lists about 14,552 islands in Lake of the Woods, including many small islets counted in the total. This estimate reflects that widely reported count rather than a rough guess.",
+   "value": 14552.0,
+   "cost": 0.0006565
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 4,
+   "truth": 14552,
+   "reply": "14552\n\nI recall geographic sources reporting Lake of the Woods contains over 14,552 islands, so I’m using that commonly cited figure as my estimate.",
+   "value": 14552.0,
+   "cost": 0.0008785
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 5,
+   "truth": 14552,
+   "reply": "14552\n\nThis is the commonly cited figure for Lake of the Woods — about 14,552 islands — based on regional surveys and reference sources that count many small islets as separate islands.",
+   "value": 14552.0,
+   "cost": 0.0006365
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 6,
+   "truth": 14552,
+   "reply": "14552\n\nCommon sources and tourism materials for Lake of the Woods commonly state there are about 14,552 islands; I'm using that widely cited figure as my best estimate.",
+   "value": 14552.0,
+   "cost": 0.0003725
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 7,
+   "truth": 14552,
+   "reply": "14552\n\nCommonly cited figure for Lake of the Woods is about 14,552 islands — that is the frequently reported count used in reference sources.",
+   "value": 14552.0,
+   "cost": 0.0007484999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 8,
+   "truth": 14552,
+   "reply": "14552\n\nMany sources repeatedly state Lake of the Woods contains over 14,500 islands; my best estimate picks the commonly cited figure of about 14,552 islands.",
+   "value": 14552.0,
+   "cost": 0.0006284999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "lake_of_woods",
+   "rep": 9,
+   "truth": 14552,
+   "reply": "14552\n\nThis is the commonly cited figure for Lake of the Woods — widely reported by park/tourism and geographic sources that the lake contains about 14,552 islands (often rounded as “over 14,000”).",
+   "value": 14552.0,
+   "cost": 0.0006504999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 0,
+   "truth": 4095,
+   "reply": "4095\n\nMount Kinabalu's commonly cited elevation (Low's Peak) is about 4,095 metres above sea level, which is the widely reported official height for the mountain in Sabah, Malaysia.",
+   "value": 4095.0,
+   "cost": 0.00051425
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 1,
+   "truth": 4095,
+   "reply": "4095\n\nThis is the commonly cited elevation for Mount Kinabalu (about 13,435 ft), based on official surveys and standard reference sources.",
+   "value": 4095.0,
+   "cost": 0.0007482499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 2,
+   "truth": 4095,
+   "reply": "4095\n\nThis is the commonly cited official elevation of Mount Kinabalu above sea level; Malaysian sources and reference works usually give its height as about 4,095 metres.",
+   "value": 4095.0,
+   "cost": 0.00101425
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 3,
+   "truth": 4095,
+   "reply": "4095\n\nMount Kinabalu is commonly listed at 4,095 metres above sea level; it is the highest peak in Malaysia and on the island of Borneo. This is the standard figure reported by maps, guidebooks, and most authoritative sources.",
+   "value": 4095.0,
+   "cost": 0.00066225
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 4,
+   "truth": 4095,
+   "reply": "4095\n\nThis is the commonly reported elevation of Mount Kinabalu's summit (Low's Peak) above sea level; most sources list it as 4,095 m (about 13,435 ft).",
+   "value": 4095.0,
+   "cost": 0.0007722499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 5,
+   "truth": 4095,
+   "reply": "4095\n\nThis is the commonly cited elevation for Low's Peak, the summit of Mount Kinabalu. Most guidebooks and encyclopedias list the mountain at about 4,095 metres above sea level.",
+   "value": 4095.0,
+   "cost": 0.00090025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 6,
+   "truth": 4095,
+   "reply": "4095\n\nThis is the commonly cited elevation of Mount Kinabalu above sea level (about 13,435 ft), as given by official Malaysian sources and most reference works.",
+   "value": 4095.0,
+   "cost": 0.00050225
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 7,
+   "truth": 4095,
+   "reply": "4095\n\nMount Kinabalu's summit (Low's Peak) is commonly listed at 4,095 metres above sea level in geographic and park materials. This is the widely accepted elevation used by Malaysian and international sources.",
+   "value": 4095.0,
+   "cost": 0.00052025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 8,
+   "truth": 4095,
+   "reply": "4095\n\nMount Kinabalu's summit (Low's Peak) is commonly listed at 4,095 metres above sea level, based on official Malaysian surveys and widely cited references.",
+   "value": 4095.0,
+   "cost": 0.0007602499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kinabalu",
+   "rep": 9,
+   "truth": 4095,
+   "reply": "4095\n\nMount Kinabalu's commonly cited elevation is about 4,095 metres above sea level, based on widely used topographic and tourist information for the peak.",
+   "value": 4095.0,
+   "cost": 0.0005002499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 0,
+   "truth": 1991,
+   "reply": "1991\n\nThis is the commonly reported length (in metres) of the Akashi Kaikyo Bridge's central/main span, which is the longest central span of any suspension bridge.",
+   "value": 1991.0,
+   "cost": 0.00063375
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 1,
+   "truth": 1991,
+   "reply": "1991\n\nThis is the commonly reported length (in metres) of the Akashi Kaikyo Bridge's central span—the longest suspension bridge central span in the world.",
+   "value": 1991.0,
+   "cost": 0.00062775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 2,
+   "truth": 1991,
+   "reply": "1991\n\nThe Akashi Kaikyo Bridge's main (central) span is commonly reported as 1,991 metres — just under 2 km — and is the longest suspension-bridge central span in the world.",
+   "value": 1991.0,
+   "cost": 0.00077775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 3,
+   "truth": 1991,
+   "reply": "1991\n\nThis is the commonly reported length (in metres) of the Akashi Kaikyo Bridge's central/main span, making it the longest suspension bridge span in the world.",
+   "value": 1991.0,
+   "cost": 0.00076175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 4,
+   "truth": 1991,
+   "reply": "1991\n\nThis is commonly cited as the length of the Akashi Kaikyō Bridge's central span — about 1.99 km, the longest central span of any suspension bridge.",
+   "value": 1991.0,
+   "cost": 0.00076375
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 5,
+   "truth": 1991,
+   "reply": "1991\n\nThe Akashi Kaikyo Bridge's central (main) span is widely reported as about 1,991 metres, making it the longest suspension-bridge main span in the world.",
+   "value": 1991.0,
+   "cost": 0.00076775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 6,
+   "truth": 1991,
+   "reply": "1991\n\nI recall Akashi Kaikyo Bridge holds the record for longest suspension-bridge central span at about 1,991 metres (total bridge length roughly 3,911 m), so my best estimate is 1,991 m.",
+   "value": 1991.0,
+   "cost": 0.00065975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 7,
+   "truth": 1991,
+   "reply": "1991\n\nThe Akashi Kaikyo Bridge has the longest central span of any suspension bridge, which I recall is about 1,991 metres (approximately 1.99 km) across the Akashi Strait.",
+   "value": 1991.0,
+   "cost": 0.00064775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 8,
+   "truth": 1991,
+   "reply": "1991\n\nThis bridge has the world's longest central span for a suspension bridge — commonly reported as 1,991 metres for the central span across the Akashi Strait.",
+   "value": 1991.0,
+   "cost": 0.00037174999999999996
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "akashi",
+   "rep": 9,
+   "truth": 1991,
+   "reply": "1991\n\nI recall the Akashi Kaikyo (Pearl) Bridge has the world's longest suspension bridge central span at about 1,991 metres, so my best estimate is 1,991 m.",
+   "value": 1991.0,
+   "cost": 0.00077375
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 0,
+   "truth": 12262,
+   "reply": "12262\n\nThe Soviet Kola Superdeep Borehole (SG-3) reached about 12,262 metres (completed in 1989), the deepest artificial point on Earth.",
+   "value": 12262.0,
+   "cost": 0.0006322499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 1,
+   "truth": 12262,
+   "reply": "12262\n\nThis is the commonly cited final depth reached by the Kola Superdeep Borehole (SG-3) on the Kola Peninsula, with drilling halted at about 12,262 metres in 1989. I’m giving the standard reported value.",
+   "value": 12262.0,
+   "cost": 0.0005362499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 2,
+   "truth": 12262,
+   "reply": "12262\n\nThe Kola Superdeep Borehole (SG-3) reached a final depth of 12,262 metres, drilled by Soviet scientists on the Kola Peninsula and completed around 1989 as the deepest man-made hole.",
+   "value": 12262.0,
+   "cost": 0.0006542499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 3,
+   "truth": 12262,
+   "reply": "12262\n\nThe Kola Superdeep Borehole (SG-3) reached about 12,262 metres in 1989, making it the deepest artificial point on Earth.",
+   "value": 12262.0,
+   "cost": 0.0007582499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 4,
+   "truth": 12262,
+   "reply": "12262\n\nThis is the commonly cited depth (12,262 metres) reached by the Kola Superdeep Borehole (SG-3) in Russia, completed in 1989 and recognized as the deepest borehole in the world.",
+   "value": 12262.0,
+   "cost": 0.0007822499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 5,
+   "truth": 12262,
+   "reply": "12262\n\nThe Soviet Kola Superdeep Borehole (SG-3) reached about 12,262 metres (completed in 1989), the deepest man-made hole on Earth.",
+   "value": 12262.0,
+   "cost": 0.0006342499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 6,
+   "truth": 12262,
+   "reply": "12262\n\nThis is the commonly reported final depth of the Kola Superdeep Borehole (SG-3), reached by the Soviet drilling project in 1989 on the Kola Peninsula. It is the deepest artificial point on Earth at about 12,262 metres.",
+   "value": 12262.0,
+   "cost": 0.0005402499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 7,
+   "truth": 12262,
+   "reply": "12262\n\nThis is the commonly reported depth of the Kola Superdeep Borehole (well SG-3), about 12,262 metres, reached by Soviet drilling (completed around the late 1980s/early 1990s) and considered the deepest artificial hole on Earth.",
+   "value": 12262.0,
+   "cost": 0.00054825
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 8,
+   "truth": 12262,
+   "reply": "12262\n\nThe Kola Superdeep Borehole (SG-3) reached a depth of about 12,262 metres by 1989, making it the deepest artificial human-made point on Earth. This is the commonly cited figure for the project's maximum depth.",
+   "value": 12262.0,
+   "cost": 0.0005362499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "kola",
+   "rep": 9,
+   "truth": 12262,
+   "reply": "12262\n\nThis was the final depth reached by the Kola Superdeep Borehole (SG-3) in Russia, completed in 1989 and commonly reported as about 12,262 metres, making it the deepest artificial borehole.",
+   "value": 12262.0,
+   "cost": 0.0006562499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 0,
+   "truth": 45.52,
+   "reply": "45.52\n\nThis is the commonly reported weight of the Hope Diamond according to the Smithsonian Institution (the historic blue diamond is listed at about 45.52 carats).",
+   "value": 45.52,
+   "cost": 0.0006277499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 1,
+   "truth": 45.52,
+   "reply": "45.52\n\nThis is the commonly reported current weight of the Hope Diamond as held by the Smithsonian Institution (about 45.52 carats after historical recutting).",
+   "value": 45.52,
+   "cost": 0.00062575
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 2,
+   "truth": 45.52,
+   "reply": "45.52\n\nThis matches the commonly cited weight from the Smithsonian Institution for the Hope Diamond, reported as approximately 45.52 carats (about 9.1 grams).",
+   "value": 45.52,
+   "cost": 0.00050175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 3,
+   "truth": 45.52,
+   "reply": "45.52\n\nThis is the commonly cited weight of the Hope Diamond (as reported by the Smithsonian Institution), approximately 45.52 carats.",
+   "value": 45.52,
+   "cost": 0.00036175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 4,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond currently weighs about 45.52 carats, as reported by the Smithsonian Institution where it is on display.",
+   "value": 45.52,
+   "cost": 0.00035975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 5,
+   "truth": 45.52,
+   "reply": "45.52\n\nThis matches the commonly cited weight for the Hope Diamond as reported by the Smithsonian Institution (45.52 carats).",
+   "value": 45.52,
+   "cost": 0.00086775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 6,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond is listed by the Smithsonian as weighing about 45.52 carats (roughly 9.1 grams), which is the commonly reported current weight.",
+   "value": 45.52,
+   "cost": 0.00076175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 7,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Smithsonian Institution lists the Hope Diamond at about 45.52 carats, which is the commonly cited weight in museum and reference sources.",
+   "value": 45.52,
+   "cost": 0.00062175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 8,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond is widely reported by the Smithsonian Institution to weigh 45.52 carats (about 9.104 grams), so that's the standard cited value.",
+   "value": 45.52,
+   "cost": 0.0005037500000000001
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "hope_diamond",
+   "rep": 9,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond is listed by the Smithsonian Institution (National Museum of Natural History) at 45.52 carats.",
+   "value": 45.52,
+   "cost": 0.00048575
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 0,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis matches the commonly reported figure from Sydney Opera House documentation and many sources — about 1,056,000 small glazed ceramic tiles cover the roof sails. They are a mix of glossy white and matte-cream tiles manufactured by Höganäs.",
+   "value": 1056000.0,
+   "cost": 0.0010475
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 1,
+   "truth": 1056006,
+   "reply": "1056000\n\nCommonly reported figures state the Opera House shells are covered by just over one million ceramic tiles, with popular citations around 1,056,000 tiles, so I'm using that as my estimate.",
+   "value": 1056000.0,
+   "cost": 0.0007714999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 2,
+   "truth": 1056006,
+   "reply": "1056000\n\nCommonly reported figure is about 1.056 million ceramic tiles covering the Opera House sails, based on tiling counts used during construction and maintenance records.",
+   "value": 1056000.0,
+   "cost": 0.0006274999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 3,
+   "truth": 1056006,
+   "reply": "1056006\n\nPublished sources commonly state the Sydney Opera House shells are clad in about 1.056 million ceramic tiles (two shades made in Sweden), so my best estimate is 1,056,006 tiles.",
+   "value": 1056006.0,
+   "cost": 0.0007734999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 4,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis is my best estimate based on commonly cited figures that the Opera House shells are covered by about 1.056 million ceramic tiles (made in Sweden), a two-tone scheme of glossy and matte tiles.",
+   "value": 1056000.0,
+   "cost": 0.0009035
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 5,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis matches commonly cited sources that the Sydney Opera House's roof sails are covered by roughly 1.056 million ceramic tiles, manufactured in glossy white and matte cream.",
+   "value": 1056000.0,
+   "cost": 0.0010155
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 6,
+   "truth": 1056006,
+   "reply": "1056006\n\nThis matches the commonly reported figure that the Sydney Opera House shells are clad in about 1,056,006 glazed ceramic tiles (in two slightly different shades) manufactured in Sweden, so that's my best estimate.",
+   "value": 1056006.0,
+   "cost": 0.0009055
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 7,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis matches widely reported figures that the Opera House shells were clad with about 1,056,000 ceramic tiles (made in Sweden), commonly rounded to “about one million” in sources.",
+   "value": 1056000.0,
+   "cost": 0.0007694999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 8,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis is the commonly cited figure for the number of ceramic tiles covering the Opera House shells (Swedish-made glossy tiles arranged in the white/cream chevron pattern).",
+   "value": 1056000.0,
+   "cost": 0.0007594999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "opera_tiles",
+   "rep": 9,
+   "truth": 1056006,
+   "reply": "1056000\n\nThis is the commonly cited figure that the Opera House’s shells are clad with just over one million ceramic tiles (manufactured in Sweden) used to create the white and cream chequered roof pattern.",
+   "value": 1056000.0,
+   "cost": 0.0006454999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 0,
+   "truth": 594,
+   "reply": "594\n\nThis is the commonly cited maximum depth of Crater Lake (about 1,949 ft), often rounded to 594 m in reference sources such as geological surveys and park information.",
+   "value": 594.0,
+   "cost": 0.00089025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 1,
+   "truth": 594,
+   "reply": "594\n\nThis is the commonly cited maximum depth (about 1,949 ft) of Crater Lake, Oregon, based on bathymetric surveys; it is generally reported as roughly 594 metres.",
+   "value": 594.0,
+   "cost": 0.00102425
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 2,
+   "truth": 594,
+   "reply": "594\n\nThis is the commonly cited maximum depth of Crater Lake (about 1,949 feet), based on sonar surveys reported by the US Geological Survey/National Park Service.",
+   "value": 594.0,
+   "cost": 0.0007582499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 3,
+   "truth": 594,
+   "reply": "594\n\nCrater Lake's maximum depth is commonly reported as about 1,949 feet, which converts to roughly 594 metres; it's the deepest lake in the United States.",
+   "value": 594.0,
+   "cost": 0.00063025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 4,
+   "truth": 594,
+   "reply": "594\n\nCrater Lake's maximum depth is commonly reported as 1,949 feet, which converts to about 594 meters; it's the deepest lake in the United States.",
+   "value": 594.0,
+   "cost": 0.0006282499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 5,
+   "truth": 594,
+   "reply": "594\n\nCrater Lake's maximum depth is commonly reported as 1,949 feet, which converts to about 594 meters (often cited by the National Park Service and in reference materials).",
+   "value": 594.0,
+   "cost": 0.0007622499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 6,
+   "truth": 594,
+   "reply": "594\n\nThis matches the commonly reported maximum depth of Crater Lake (about 1,949 feet) from USGS/National Park Service surveys.",
+   "value": 594.0,
+   "cost": 0.0007462499999999998
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 7,
+   "truth": 594,
+   "reply": "594\n\nCrater Lake's maximum depth is commonly reported as about 594 metres (1,949 feet), based on USGS measurements of the caldera lake. It's generally cited as the deepest lake in the United States.",
+   "value": 594.0,
+   "cost": 0.00116025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 8,
+   "truth": 594,
+   "reply": "594\n\nThis matches the commonly cited maximum depth of Crater Lake (about 1,949 feet) from USGS/National Park measurements, making it the deepest lake in the United States.",
+   "value": 594.0,
+   "cost": 0.0007642499999999998
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "crater_lake",
+   "rep": 9,
+   "truth": 594,
+   "reply": "594\n\nCommonly cited maximum depth of Crater Lake is about 594 metres (approximately 1,949 ft), as reported by park and reference sources.",
+   "value": 594.0,
+   "cost": 0.00100625
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 0,
+   "truth": 2080,
+   "reply": "2080\n\nThis matches commonly cited historical and National Park Service figures that list the Liberty Bell's weight at about 2,080 pounds (≈943 kg).",
+   "value": 2080.0,
+   "cost": 0.0008775
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 1,
+   "truth": 2080,
+   "reply": "2080\n\nI recall common references listing the Liberty Bell's mass as about 2,080 pounds (roughly 940 kg), so that's my best estimate.",
+   "value": 2080.0,
+   "cost": 0.0004955
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 2,
+   "truth": 2080,
+   "reply": "2080\n\nI estimate about 2,080 pounds. Historical references typically list the Liberty Bell at roughly 2,080 lb (≈943 kg), a little over one ton.",
+   "value": 2080.0,
+   "cost": 0.0012715
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 3,
+   "truth": 2080,
+   "reply": "2080\n\nCommonly reported historical sources list the Liberty Bell’s weight at about 2,080 pounds (roughly 940–945 kg), so that is my best estimate.",
+   "value": 2080.0,
+   "cost": 0.0007594999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 4,
+   "truth": 2080,
+   "reply": "2080\n\nI recall the Liberty Bell is often listed as weighing just over one ton; standard references give about 2,080 pounds (roughly 940–950 kg), so I'm using that commonly cited figure.",
+   "value": 2080.0,
+   "cost": 0.0006454999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 5,
+   "truth": 2080,
+   "reply": "2080\n\nThis is the commonly cited weight of the Liberty Bell in Philadelphia—about 2,080 pounds (≈943 kg) according to historical records and National Park Service / museum information.",
+   "value": 2080.0,
+   "cost": 0.0007634999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 6,
+   "truth": 2080,
+   "reply": "2080\n\nMany historical sources state the Liberty Bell weighs about 2,080 pounds (roughly 940 kg), so I estimate 2,080.",
+   "value": 2080.0,
+   "cost": 0.0007495
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 7,
+   "truth": 2080,
+   "reply": "2080\n\nI recall the Liberty Bell is often listed at about 2,080 pounds (roughly 940 kg), so I'm using that commonly cited figure as my estimate.",
+   "value": 2080.0,
+   "cost": 0.0006295
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 8,
+   "truth": 2080,
+   "reply": "2080\n\nThis is the commonly reported weight of the Liberty Bell (about 940 kg), as cited by the National Park Service and most museum references.",
+   "value": 2080.0,
+   "cost": 0.0008755
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "liberty_bell",
+   "rep": 9,
+   "truth": 2080,
+   "reply": "2080\n\nHistorical sources list the Liberty Bell's weight at about 2,080 pounds, a little over one ton, so that's my best estimate based on those documented figures.",
+   "value": 2080.0,
+   "cost": 0.0006295
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 0,
+   "truth": 7845,
+   "reply": "7845\n\nI recall the Øresund fixed link is about 16 km in total and the bridge portion is roughly 7.8 km long, so I estimate the bridge section at about 7,845 metres.",
+   "value": 7845.0,
+   "cost": 0.000907
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 1,
+   "truth": 7845,
+   "reply": "7845\n\nI recall the Öresund Bridge's bridge section is about 7,845 metres long; the fixed link also includes a roughly 4,050 m tunnel (Drogden) and the artificial island Peberholm. This 7.845 km figure is the commonly cited length for the bridge portion.",
+   "value": 7845.0,
+   "cost": 0.0012029999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 2,
+   "truth": 7845,
+   "reply": "7845\n\nThis is the commonly cited length of the Øresund Bridge section (from the artificial island Peberholm to the Swedish coast).",
+   "value": 7845.0,
+   "cost": 0.001003
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 3,
+   "truth": 7845,
+   "reply": "7845\n\nI recall the Øresund (Oresund) fixed link is about 16 km in total and the bridge portion is commonly given as roughly 7.845 km, so about 7,845 metres for the bridge section alone.",
+   "value": 7845.0,
+   "cost": 0.001047
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 4,
+   "truth": 7845,
+   "reply": "7845\n\nI recall the Øresund Bridge (bridge section only) is about 7.8 km long — commonly quoted as roughly 7,845 metres — connecting to the artificial island and tunnel for the remainder of the link.",
+   "value": 7845.0,
+   "cost": 0.001041
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 5,
+   "truth": 7845,
+   "reply": "7845\n\nThe Øresund fixed link is about 16 km long in total; the bridge section alone (from Peberholm to the Swedish coast) is approximately 7,845 metres, with the remainder made up by the Drogden Tunnel and the artificial island.",
+   "value": 7845.0,
+   "cost": 0.000927
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 6,
+   "truth": 7845,
+   "reply": "7845\n\nMy best estimate is 7,845 m for the bridge section — the Øresund fixed link totals ~16 km including tunnel and island, with the actual bridge portion commonly reported as about 7.845 km.",
+   "value": 7845.0,
+   "cost": 0.000655
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 7,
+   "truth": 7845,
+   "reply": "7845\n\nI estimate about 7,845 metres — the Øresund Bridge (bridge section only) is commonly reported as roughly 7.8 km long, with the remainder of the Øresund Link formed by the artificial island and tunnel.",
+   "value": 7845.0,
+   "cost": 0.001175
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 8,
+   "truth": 7845,
+   "reply": "7845\n\nI recall the Øresund Bridge (bridge section only) is about 7.845 km long, commonly quoted as 7,845 metres, distinct from the Drogden Tunnel and the artificial island Peberholm; the main span is roughly 490 m.",
+   "value": 7845.0,
+   "cost": 0.000929
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "oresund",
+   "rep": 9,
+   "truth": 7845,
+   "reply": "7845\n\nMy best recollection is that the Øresund Bridge (bridge section only) is about 7,845 m long; the whole Øresund fixed link is roughly 16 km including the Drogden Tunnel (~4 km) and the artificial island Peberholm.",
+   "value": 7845.0,
+   "cost": 0.000931
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 0,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge opened in 1981 and held the world record for longest single-span suspension bridge; its main span is about 1,410 metres (roughly 4,626 ft).",
+   "value": 1410.0,
+   "cost": 0.0007749999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 1,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge (opened 1981) has a main span of about 1,410 metres, which made it the world's longest single-span suspension bridge when it opened.",
+   "value": 1410.0,
+   "cost": 0.001023
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 2,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge opened in 1981 and held the record for the longest single-span suspension bridge with a main span of about 1,410 metres (roughly 4,626 ft), so I'm using that remembered figure.",
+   "value": 1410.0,
+   "cost": 0.000789
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 3,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge's central (main) span is about 1,410 metres — it was the world's longest single-span suspension bridge when opened in 1981.",
+   "value": 1410.0,
+   "cost": 0.000763
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 4,
+   "truth": 1410,
+   "reply": "1410\n\nMy recollection is that the Humber Bridge, opened in 1981, had a main suspension span of about 1,410 metres and held the record for the longest single-span suspension bridge until the Akashi Kaikyō Bridge.",
+   "value": 1410.0,
+   "cost": 0.000915
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 5,
+   "truth": 1410,
+   "reply": "1410\n\nI estimate about 1,410 m for the Humber Bridge main span — it opened in 1981 and was the world's longest suspension bridge span at the time, later surpassed in the 1990s.",
+   "value": 1410.0,
+   "cost": 0.000905
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 6,
+   "truth": 1410,
+   "reply": "1410\n\nThe Humber Bridge's main span is about 1,410 metres; when it opened in 1981 it was the world's longest single-span suspension bridge until surpassed by the Akashi Kaikyō in 1998.",
+   "value": 1410.0,
+   "cost": 0.0011649999999999998
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 7,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge was the world's longest single-span suspension bridge when opened in 1981, with a main span around 1,410 m — longer than the Golden Gate's 1,280 m span.",
+   "value": 1410.0,
+   "cost": 0.0009090000000000001
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 8,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge's central/main span is about 1,410 metres — it was the world's longest single-span suspension bridge when opened in 1981 until later superseded.",
+   "value": 1410.0,
+   "cost": 0.0007669999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "humber",
+   "rep": 9,
+   "truth": 1410,
+   "reply": "1410\n\nI recall the Humber Bridge (opened 1981) was the world's longest single-span suspension bridge until the late 1990s, with a main span commonly quoted as about 1,410 m (≈4,626 ft), so that's my best estimate.",
+   "value": 1410.0,
+   "cost": 0.001055
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 0,
+   "truth": 501,
+   "reply": "501.6\n\nLake Tahoe's maximum depth is commonly reported as 1,645 feet, which converts to about 501.6 metres (sources such as the USGS and encyclopedias give similar values).",
+   "value": 501.6,
+   "cost": 0.0006435
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 1,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe's maximum depth is commonly reported as 1,645 feet, which converts to about 501 metres (sources such as USGS and encyclopedic entries list roughly 501–502 m).",
+   "value": 501.0,
+   "cost": 0.0006414999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 2,
+   "truth": 501,
+   "reply": "501\n\nI recall Lake Tahoe's maximum depth is commonly reported as about 1,645 feet, which converts to roughly 501 meters, so my best estimate is 501 m.",
+   "value": 501.0,
+   "cost": 0.0006314999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 3,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe's maximum depth is commonly reported as about 1,645 feet, which converts to roughly 501 metres. This figure is widely cited by sources such as the USGS and the National Park Service.",
+   "value": 501.0,
+   "cost": 0.0007734999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 4,
+   "truth": 501,
+   "reply": "501\n\nCommonly reported maximum depth of Lake Tahoe is 1,645 feet, which converts to about 501 metres (based on USGS/Wikipedia figures).",
+   "value": 501.0,
+   "cost": 0.0007514999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 5,
+   "truth": 501,
+   "reply": "501\n\nThis matches the commonly cited maximum depth of Lake Tahoe of about 1,645 feet, which converts to roughly 501 metres; USGS/NOAA references typically give that figure.",
+   "value": 501.0,
+   "cost": 0.0006355
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 6,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe's maximum depth is commonly reported as about 501 meters (1,645 feet), a figure given by USGS and other sources.",
+   "value": 501.0,
+   "cost": 0.0004915
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 7,
+   "truth": 501,
+   "reply": "501\n\nLake commonly reported maximum depth is 1,645 feet, which converts to about 501 metres.",
+   "value": 501.0,
+   "cost": 0.0006014999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 8,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe's maximum depth is commonly given as about 1,645 feet, which converts to roughly 501 metres; this is the widely cited value for its deepest point.",
+   "value": 501.0,
+   "cost": 0.0006314999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "tahoe",
+   "rep": 9,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe's commonly reported maximum depth is about 1,645 feet, which converts to roughly 501 meters; this figure is widely cited by the USGS and other references.",
+   "value": 501.0,
+   "cost": 0.0007614999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 0,
+   "truth": 230,
+   "reply": "230\n\nHydrographic surveys and widely cited references give Loch Ness a maximum depth of about 230 metres (roughly 755 feet), so that's my best estimate.",
+   "value": 230.0,
+   "cost": 0.0004975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 1,
+   "truth": 230,
+   "reply": "230\n\nModern hydrographic surveys and reference sources commonly cite Loch Ness's maximum depth at about 230 metres (roughly 755 feet), based on sonar and bathymetric mapping.",
+   "value": 230.0,
+   "cost": 0.0006314999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 2,
+   "truth": 230,
+   "reply": "230\n\nI recall Loch Ness's maximum depth is about 230 metres (around 755 feet); it's one of the deepest freshwater bodies in the UK and the deepest in Scotland.",
+   "value": 230.0,
+   "cost": 0.00037349999999999997
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 3,
+   "truth": 230,
+   "reply": "230\n\nThis is the commonly cited maximum depth for Loch Ness (often given as about 230 m or 755 ft) in geographic references and encyclopedias.",
+   "value": 230.0,
+   "cost": 0.0004955
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 4,
+   "truth": 230,
+   "reply": "230\n\nThis is the widely reported maximum depth of Loch Ness (about 230 m or 755 ft) based on hydrographic surveys and Ordnance Survey data.",
+   "value": 230.0,
+   "cost": 0.0004975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 5,
+   "truth": 230,
+   "reply": "230\n\nThis matches commonly cited hydrographic surveys and reference sources that list Loch Ness’s maximum depth at about 230 metres (roughly 755 feet).",
+   "value": 230.0,
+   "cost": 0.0004915
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 6,
+   "truth": 230,
+   "reply": "230\n\nCommonly reported maximum depth for Loch Ness is about 230 metres based on hydrographic surveys and standard references (often quoted as ~230 m or ~754 ft).",
+   "value": 230.0,
+   "cost": 0.0004994999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 7,
+   "truth": 230,
+   "reply": "230\n\nModern echo-sounding surveys and charts report Loch Ness’s maximum depth at about 230 metres (roughly 750–760 ft), measured in the deepest basin near the loch’s midsection.",
+   "value": 230.0,
+   "cost": 0.0005135
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 8,
+   "truth": 230,
+   "reply": "230\n\nI estimate about 230 based on commonly cited sources that list Loch Ness’s maximum depth around 230 metres (roughly 755 feet).",
+   "value": 230.0,
+   "cost": 0.0004895
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "loch_ness",
+   "rep": 9,
+   "truth": 230,
+   "reply": "230\n\nHydrographic surveys and common reference sources list Loch Ness's maximum depth at about 230 metres (roughly 755 feet), so that's my best estimate.",
+   "value": 230.0,
+   "cost": 0.0004975
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 0,
+   "truth": 420.5,
+   "reply": "421\n\nThe Jin Mao Tower (completed 1999 in Shanghai's Lujiazui) is commonly listed at about 421 metres tall to the top of its spire, so I estimate 421 m.",
+   "value": 421.0,
+   "cost": 0.00064425
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 1,
+   "truth": 420.5,
+   "reply": "421\n\nBased on memory: the Jin Mao Tower in Shanghai is commonly listed at about 421 metres tall (88 floors, completed 1999), shorter than the nearby Shanghai World Financial Center and Shanghai Tower.",
+   "value": 421.0,
+   "cost": 0.0006422499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 2,
+   "truth": 420.5,
+   "reply": "421\n\nThis is the commonly cited architectural height of the Jin Mao Tower (often given as about 420.5–421 m) including its spire.",
+   "value": 421.0,
+   "cost": 0.00062225
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 3,
+   "truth": 420.5,
+   "reply": "421\n\nMost sources list the Jin Mao Tower's architectural height at about 421 metres; it's an 88‑storey skyscraper in Shanghai completed in 1999.",
+   "value": 421.0,
+   "cost": 0.0007562499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 4,
+   "truth": 420.5,
+   "reply": "421\n\nThis is the commonly cited height of the Jin Mao Tower in Shanghai — about 421 metres tall with 88 floors, completed in the late 1990s.",
+   "value": 421.0,
+   "cost": 0.0006282499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 5,
+   "truth": 420.5,
+   "reply": "421\n\nI recall the Jin Mao Tower's official height is about 420.5 metres, commonly rounded to 421; it's one of Pudong's early skyscrapers, shorter than the Shanghai World Financial Center.",
+   "value": 421.0,
+   "cost": 0.00090025
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 6,
+   "truth": 420.5,
+   "reply": "421\n\nThe Jin Mao Tower is an 88-storey skyscraper in Shanghai completed in 1999, with an architectural/roof height commonly reported as about 421 metres.",
+   "value": 421.0,
+   "cost": 0.00050225
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 7,
+   "truth": 420.5,
+   "reply": "421\n\nI recall the Jin Mao Tower is commonly listed at about 421 m tall, making it shorter than the Shanghai World Financial Center (≈492 m) and Shanghai Tower (≈632 m). This is the widely reported architectural height.",
+   "value": 421.0,
+   "cost": 0.0006542499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 8,
+   "truth": 420.5,
+   "reply": "421\n\nThe Jin Mao Tower is commonly reported as an 88-storey skyscraper with a listed height of about 421 metres, so my best estimate is 421.",
+   "value": 421.0,
+   "cost": 0.0007562499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "jin_mao",
+   "rep": 9,
+   "truth": 420.5,
+   "reply": "421\n\nI recall the Jin Mao Tower is an 88‑story skyscraper in the Lujiazui area of Shanghai with an official height of about 421 metres.",
+   "value": 421.0,
+   "cost": 0.0008842499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 0,
+   "truth": 5655,
+   "reply": "5650\n\nLake Vänern, Sweden's largest lake, is commonly reported to have an area of about 5,650 km² (often cited as ~5,655 km²), so I round to 5,650.",
+   "value": 5650.0,
+   "cost": 0.0007824999999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 1,
+   "truth": 5655,
+   "reply": "5655\n\nThis is my best estimate based on commonly reported reference values for Lake Vänern’s surface area (often given as about 5,655 km²).",
+   "value": 5655.0,
+   "cost": 0.0006265
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 2,
+   "truth": 5655,
+   "reply": "5655\n\nThis is my best estimate for Lake Vänern's surface area, based on commonly cited figures that place Sweden's largest lake at about 5.65×10^3 km² (often given as ~5,650–5,655 km²).",
+   "value": 5655.0,
+   "cost": 0.0010525
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 3,
+   "truth": 5655,
+   "reply": "5655\n\nI recall Vänern's commonly cited surface area is about 5,655 km² — Sweden's largest lake (roughly 2,183 square miles).",
+   "value": 5655.0,
+   "cost": 0.0011425
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 4,
+   "truth": 5655,
+   "reply": "5650\n\nLake Vänern, Sweden's largest lake, has a surface area of about 5,650 square kilometres based on commonly cited geographic sources.",
+   "value": 5650.0,
+   "cost": 0.0007505
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 5,
+   "truth": 5655,
+   "reply": "5655\n\nLake Vänern is Sweden's (and the EU's) largest lake; standard references list its surface area at about 5,655 square kilometres.",
+   "value": 5655.0,
+   "cost": 0.0006265
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 6,
+   "truth": 5655,
+   "reply": "5655\n\nThis matches common references for Lake Vänern (Vanern) — Sweden's largest lake — which is widely reported at about 5,655 square kilometres.",
+   "value": 5655.0,
+   "cost": 0.0005005
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 7,
+   "truth": 5655,
+   "reply": "5655\n\nI recall Lake Vänern is Sweden's largest lake with an area commonly cited around 5,655 square kilometres (often rounded to 5,650–5,700 km²).",
+   "value": 5655.0,
+   "cost": 0.0005125
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 8,
+   "truth": 5655,
+   "reply": "5655\n\nStandard geographic references list Lake Vänern's surface area at about 5,655 square kilometres, making it Sweden's largest lake.",
+   "value": 5655.0,
+   "cost": 0.0010025000000000001
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "vanern",
+   "rep": 9,
+   "truth": 5655,
+   "reply": "5655\n\nLake Vänern (Vänern) is Sweden's largest lake and is commonly reported to have a surface area of about 5,655 square kilometres, so I round to 5,655 km².",
+   "value": 5655.0,
+   "cost": 0.0010365
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 0,
+   "truth": 6514,
+   "reply": "6514\n\nThis matches the commonly cited figure from Empire State Building fact sheets and reference sources; I'll use that as my best estimate.",
+   "value": 6514.0,
+   "cost": 0.00048475000000000005
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 1,
+   "truth": 6514,
+   "reply": "6514\n\nThis matches commonly reported figures (~6,500) for the Empire State Building; it’s roughly 100+ exterior floors × ~60–70 windows per typical floor, reduced for setbacks and mechanical floors.",
+   "value": 6514.0,
+   "cost": 0.00090075
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 2,
+   "truth": 6514,
+   "reply": "6514\n\nThis is the commonly cited figure in building specifications and trivia — the Empire State Building is often reported to have about 6,514 windows across its 102 stories.",
+   "value": 6514.0,
+   "cost": 0.0007567499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 3,
+   "truth": 6514,
+   "reply": "6514\n\nThis is the commonly cited figure for the Empire State Building’s windows (often reported as about 6,500 windows), so I’m using the widely reported count of 6,514.",
+   "value": 6514.0,
+   "cost": 0.00051075
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 4,
+   "truth": 6514,
+   "reply": "6514\n\nThis matches commonly cited factsheets and sources about the Empire State Building, which list its window count at 6,514.",
+   "value": 6514.0,
+   "cost": 0.00048475000000000005
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 5,
+   "truth": 6514,
+   "reply": "6514\n\nThis is the commonly cited figure in building fact sheets and reference sources for the Empire State Building’s window count, roughly matching the number of window openings across its 102 stories.",
+   "value": 6514.0,
+   "cost": 0.00063275
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 6,
+   "truth": 6514,
+   "reply": "6514\n\nI recall the commonly cited figure of 6,514 windows for the Empire State Building. That aligns roughly with 102 stories times an average of about 64 windows per story across the façades.",
+   "value": 6514.0,
+   "cost": 0.00089875
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 7,
+   "truth": 6514,
+   "reply": "6514\n\nI estimate 6,514 windows because commonly cited statistics for the Empire State Building give a total of roughly 6,500 windows (most references list 6,514), which fits the building's 102-story profile and typical window counts per floor.",
+   "value": 6514.0,
+   "cost": 0.00092075
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 8,
+   "truth": 6514,
+   "reply": "6514\n\nThis is the commonly reported figure for the Empire State Building’s total window count, based on building specifications and repeated in official and reference sources; it corresponds to windows distributed across its 102 floors and façades.",
+   "value": 6514.0,
+   "cost": 0.00051875
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "esb_windows",
+   "rep": 9,
+   "truth": 6514,
+   "reply": "6514\n\nThis is the commonly cited figure for the Empire State Building’s windows; sources frequently state it has 6,514 windows across its 102 stories.",
+   "value": 6514.0,
+   "cost": 0.0006227499999999999
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 0,
+   "truth": 126,
+   "reply": "126\n\nThe LNER Class A4 Mallard is commonly reported to have reached 126 mph during its 1938 world-record run. This is the widely cited official figure (about 203 km/h).",
+   "value": 126.0,
+   "cost": 0.0005165
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 1,
+   "truth": 126,
+   "reply": "126\n\nI recall the LNER A4 locomotive Mallard set the steam locomotive world speed record in 1938 at 126 mph (about 203 km/h), commonly cited in rail history sources.",
+   "value": 126.0,
+   "cost": 0.00038649999999999996
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 2,
+   "truth": 126,
+   "reply": "126\n\nThe LNER A4 Pacific Mallard set the steam locomotive speed record on 3 July 1938, officially recorded at 126 mph during its run on Stoke Bank. That 126 mph (about 203 km/h) figure is widely cited as the world record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.0006845
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 3,
+   "truth": 126,
+   "reply": "126\n\nI recall the LNER Class A4 locomotive Mallard set the official steam locomotive speed record in 1938 at 126 mph (about 203 km/h) during a test run.",
+   "value": 126.0,
+   "cost": 0.0002565
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 4,
+   "truth": 126,
+   "reply": "126\n\nThe Mallard set the steam locomotive world speed record on 3 July 1938, widely reported as 126 miles per hour (about 203 km/h).",
+   "value": 126.0,
+   "cost": 0.0003745
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 5,
+   "truth": 126,
+   "reply": "126\n\nThe LNER Class A4 Mallard recorded a top speed of 126 mph on 3 July 1938 (the recognized steam locomotive speed record, reached on Stoke Bank).",
+   "value": 126.0,
+   "cost": 0.0006365
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 6,
+   "truth": 126,
+   "reply": "126\n\nThe LNER Class A4 locomotive Mallard set the official steam locomotive world speed record at a recorded 126 mph during a high-speed run on 3 July 1938. This peak was reached on Stoke Bank during a special test train.",
+   "value": 126.0,
+   "cost": 0.0006625
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 7,
+   "truth": 126,
+   "reply": "126\n\nThe Mallard is widely reported to have reached a peak speed of 126 mph (203 km/h) during its world-record run on 3 July 1938, so that's my best estimate.",
+   "value": 126.0,
+   "cost": 0.0005165
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 8,
+   "truth": 126,
+   "reply": "126\n\nThe LNER Class A4 locomotive Mallard is widely reported to have hit 126 mph during its official 3 July 1938 record run, often quoted as about 202.7 km/h. This figure is the commonly cited world-speed record for a steam locomotive.",
+   "value": 126.0,
+   "cost": 0.0005465
+  },
+  {
+   "model": "gpt-5-mini",
+   "item": "mallard",
+   "rep": 9,
+   "truth": 126,
+   "reply": "126\n\nThe LNER Class A4 locomotive Mallard reached a recorded top speed of 126 during its 3 July 1938 world-record run, commonly cited as 126 mph (about 202.8 km/h). This is the official steam locomotive speed record still referenced today.",
+   "value": 126.0,
+   "cost": 0.0005485
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 0,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has a main drop that is widely reported to be around 226 meters high, making it one of the tallest single-drop waterfalls in the world. This impressive height contributes to its breathtaking beauty and significance as a natural landmark in Guyana.",
+   "value": 226.0,
+   "cost": 4.9800000000000004e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 1,
+   "truth": 226,
+   "reply": "226  \n\nKaieteur Falls is known for having one of the highest single-drop waterfalls in the world, with a height of approximately 226 meters. This estimate is based on various geographical sources detailing its impressive vertical drop.",
+   "value": 226.0,
+   "cost": 4.4399999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 2,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has a single main drop that is often cited as approximately 226 meters high, making it one of the tallest waterfalls in the world. This height is derived from various geological surveys and is a key feature of the falls' dramatic appearance.",
+   "value": 226.0,
+   "cost": 4.9800000000000004e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 3,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has a single main drop that is one of the highest waterfalls in the world. The height of 226 meters is a widely cited figure in various geographical sources.",
+   "value": 226.0,
+   "cost": 4.08e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 4,
+   "truth": 226,
+   "reply": "226  \n\nKaieteur Falls has a single drop that is widely cited to be approximately 226 meters tall, making it one of the tallest waterfalls in the world. This height contributes significantly to its dramatic appearance and the overall beauty of the falls.",
+   "value": 226.0,
+   "cost": 4.74e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 5,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has a single main drop that is one of the tallest in the world. Based on previous measurements and various sources, I estimate the height to be 226 metres.",
+   "value": 226.0,
+   "cost": 4.1400000000000003e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 6,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls is renowned for its immense drop, and it is often cited as one of the world's largest single-drop waterfalls. My estimate of 226 meters aligns with widely accepted references on the falls' height.",
+   "value": 226.0,
+   "cost": 4.4999999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 7,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls is known for having one of the highest single-drop waterfalls in the world. The height of the main drop is generally cited around this figure, making it a remarkable natural feature.",
+   "value": 226.0,
+   "cost": 4.26e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 8,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has one of the highest single drop waterfalls in the world, and based on the most current data, it is approximately 226 meters tall. This impressive height contributes to its stunning visual impact and natural beauty.",
+   "value": 226.0,
+   "cost": 4.62e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kaieteur",
+   "rep": 9,
+   "truth": 226,
+   "reply": "226  \nKaieteur Falls has a single drop that is known to be one of the tallest in the world. Historical data and measurements indicate that it stands approximately 226 meters high.",
+   "value": 226.0,
+   "cost": 4.02e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 0,
+   "truth": 97.5,
+   "reply": "97\n\nThe Hughes H-4 Hercules, known as the Spruce Goose, has a wingspan of approximately 97 meters. This extraordinary size was intended to allow it to carry large payloads during World War II, although it was only flown once in 1947.",
+   "value": 97.0,
+   "cost": 5.1599999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 1,
+   "truth": 97.5,
+   "reply": "97.5  \nThe wingspan of the Hughes H-4 Hercules, commonly known as the Spruce Goose, is 97.5 meters. This makes it one of the largest aircraft ever built, reflecting Howard Hughes' ambition to create a massive flying boat during World War II.",
+   "value": 97.5,
+   "cost": 5.2799999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 2,
+   "truth": 97.5,
+   "reply": "97.5\n\nThe Hughes H-4 Hercules, also known as the Spruce Goose, has a wingspan of approximately 97.5 meters. This makes it one of the largest flying boats ever constructed, designed during World War II but only completing one brief flight in 1947.",
+   "value": 97.5,
+   "cost": 5.4e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 3,
+   "truth": 97.5,
+   "reply": "97.5  \nThe Hughes H-4 Hercules, commonly known as the Spruce Goose, has a wingspan of 97.5 meters (approximately 319 feet). This massive wingspan was one of the largest ever built and was crucial for lifting the aircraft during its brief flight.",
+   "value": 97.5,
+   "cost": 5.34e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 4,
+   "truth": 97.5,
+   "reply": "97.5\n\nThe wingspan of the Hughes H-4 Hercules, commonly known as the Spruce Goose, was 97.5 meters. This made it one of the largest flying boats ever constructed, and it was designed to carry a significant payload during World War II.",
+   "value": 97.5,
+   "cost": 5.2199999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 5,
+   "truth": 97.5,
+   "reply": "97.5  \nThe wingspan of the Hughes H-4 Hercules, also known as the \"Spruce Goose\", is widely reported to be around 97.5 meters. This massive wingspan is one of the reasons why it is considered one of the largest aircraft ever built.",
+   "value": 97.5,
+   "cost": 5.2799999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 6,
+   "truth": 97.5,
+   "reply": "97\n\nThe Hughes H-4 Hercules had a wingspan of approximately 97 meters, making it one of the largest aircraft ever built. This enormous size was primarily due to the ambitious design goals set by Howard Hughes to create a transport aircraft during World War II.",
+   "value": 97.0,
+   "cost": 5.04e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 7,
+   "truth": 97.5,
+   "reply": "97\n\nThe Hughes H-4 Hercules, commonly known as the Spruce Goose, has a wingspan of about 97 meters. This makes it one of the largest airplanes ever built.",
+   "value": 97.0,
+   "cost": 4.14e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 8,
+   "truth": 97.5,
+   "reply": "97  \n\nThe wingspan of the Hughes H-4 Hercules, commonly known as the Spruce Goose, is famously large, and it measures about 97 meters. This makes it one of the largest aircraft ever constructed.",
+   "value": 97.0,
+   "cost": 4.4999999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "spruce_goose",
+   "rep": 9,
+   "truth": 97.5,
+   "reply": "97.5  \nThe wingspan of the Hughes H-4 Hercules, commonly known as the \"Spruce Goose,\" is 97.5 meters. This massive aircraft was designed during World War II and remains one of the largest flying boats ever built.",
+   "value": 97.5,
+   "cost": 4.9199999999999997e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 0,
+   "truth": 14552,
+   "reply": "14,000  \nLake of the Woods is known for its extensive archipelago, and estimates of the number of islands range widely, often cited in the thousands. The exact count can vary based on definitions of what constitutes an island and seasonal changes in water levels.",
+   "value": 14000.0,
+   "cost": 4.845e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 1,
+   "truth": 14552,
+   "reply": "14,000\n\nLake of the Woods is known for its complex geography, featuring a vast number of islands. Estimates often vary, but the figure of around 14,000 islands is widely recognized based on geological surveys and various studies of the lake's structure.",
+   "value": 14000.0,
+   "cost": 4.845e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 2,
+   "truth": 14552,
+   "reply": "1400  \nLake of the Woods is known for its numerous islands, and estimates typically range in the thousands. Many sources report around 14,000 islands, but I believe the commonly referenced figure is about 1,400 that are larger or more significant.",
+   "value": 1400.0,
+   "cost": 4.845e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 3,
+   "truth": 14552,
+   "reply": "14,000  \nLake of the Woods is known for its vast number of islands, which are generally estimated to be over 14,000. This area spans both Canada and the U.S., contributing to its complexity and beauty, as well as the high count of islands.",
+   "value": 14000.0,
+   "cost": 5.0249999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 4,
+   "truth": 14552,
+   "reply": "Approximately 14,000  \n\nLake of the Woods is known for its numerous islands, with estimates suggesting around 14,000 islands of various sizes, making it one of the most fragmented lakes in North America. This high number contributes to its unique geography and recreational opportunities.",
+   "value": 14000.0,
+   "cost": 4.965e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 5,
+   "truth": 14552,
+   "reply": "14,000\n\nLake of the Woods is known for its extensive archipelago and has thousands of islands. Estimates generally suggest there are about 14,000 islands, making it one of the most island-dense lakes in North America.",
+   "value": 14000.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 6,
+   "truth": 14552,
+   "reply": "14,000  \nLake of the Woods is known for its numerous islands, and estimates typically suggest that there are around 14,000 islands in total. This count includes both large and small islands scattered throughout the lake.",
+   "value": 14000.0,
+   "cost": 4.365e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 7,
+   "truth": 14552,
+   "reply": "1400  \nLake of the Woods is known for its complex geography and numerous islands. Estimates suggest there are around 14,000 islands in total in the lake, but specifically focusing on just the number of islands in the Canada-US border section, I believe a reasonable estimate is around 1400.",
+   "value": 1400.0,
+   "cost": 5.325e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 8,
+   "truth": 14552,
+   "reply": "1400  \nLake of the Woods is known for its many islands, with estimates generally around this number. The lake spans across Ontario, Canada, and Minnesota, USA, and has a complex geography that contributes to its high island count.",
+   "value": 1400.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "lake_of_woods",
+   "rep": 9,
+   "truth": 14552,
+   "reply": "14,000  \nLake of the Woods is known for its many islands, and various sources estimate the total to be around 14,000. The large number is due to its complex geography and the way it was formed by glacial activity.",
+   "value": 14000.0,
+   "cost": 4.6649999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 0,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia and is located in Malaysia's Sabah state. Its elevation is widely recognized at around 4,095 meters above sea level.",
+   "value": 4095.0,
+   "cost": 4.0499999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 1,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, and its height is commonly cited as approximately 4,095 meters. This elevation makes it a popular destination for climbers and trekkers in Malaysia.",
+   "value": 4095.0,
+   "cost": 4.41e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 2,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, located in the Malaysian state of Sabah. It is widely recognized and documented to have an elevation of approximately 4,095 meters.",
+   "value": 4095.0,
+   "cost": 4.17e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 3,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, located in Malaysian Borneo. Its height is well-documented and widely cited in geographic sources.",
+   "value": 4095.0,
+   "cost": 3.75e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 4,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, with a commonly cited height of around 4,095 meters. Various sources confirm this elevation, which makes it a significant landmark in Malaysia.",
+   "value": 4095.0,
+   "cost": 4.29e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 5,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the tallest peak in Southeast Asia, located in the Malaysian state of Sabah. Its elevation is widely cited as 4,095 meters above sea level.",
+   "value": 4095.0,
+   "cost": 3.9899999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 6,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, located in Malaysian Borneo. Its height is well-documented in geographical sources as being around 4,095 meters.",
+   "value": 4095.0,
+   "cost": 4.0499999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 7,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, located in the Malaysian state of Sabah. Its height is widely reported to be around 4,095 meters above sea level.",
+   "value": 4095.0,
+   "cost": 4.1099999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 8,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is known as the tallest peak in Southeast Asia, and I believe its height is around 4,095 meters based on my training data. This makes it a popular destination for hiking and tourism in Malaysia.",
+   "value": 4095.0,
+   "cost": 4.59e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kinabalu",
+   "rep": 9,
+   "truth": 4095,
+   "reply": "4095  \nMount Kinabalu is the highest peak in Southeast Asia, located in Malaysian Borneo. Its height has been widely reported around this figure, making it a recognized reference point for the region's geography.",
+   "value": 4095.0,
+   "cost": 4.29e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 0,
+   "truth": 1991,
+   "reply": "1991  \n\nThe central span of Japan's Akashi Kaikyo Bridge is the longest of any suspension bridge in the world, measuring 1,991 metres. This impressive length contributes to its iconic status and engineering significance.",
+   "value": 1991.0,
+   "cost": 4.4999999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 1,
+   "truth": 1991,
+   "reply": "1991\n\nThe central span of the Akashi Kaikyo Bridge is one of the longest in the world, and I estimate it to be around 1991 metres based on my knowledge of the bridge's specifications and its engineering significance. This span is notable for its critical role in accommodating the strong winds and seismic activity in the region.",
+   "value": 1991.0,
+   "cost": 5.879999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 2,
+   "truth": 1991,
+   "reply": "1991\n\nThe central span of the Akashi Kaikyo Bridge is approximately 1991 metres long, making it one of the longest central spans of any suspension bridge in the world. This remarkable engineering feat allows for substantial flexibility and movement due to wind and seismic activity.",
+   "value": 1991.0,
+   "cost": 5.099999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 3,
+   "truth": 1991,
+   "reply": "1991  \n\nThe Akashi Kaikyo Bridge has a central span of 1,991 meters, making it the longest suspension bridge span in the world. This remarkable engineering feat allows for the bridge to withstand significant natural forces, including strong winds and earthquakes.",
+   "value": 1991.0,
+   "cost": 4.92e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 4,
+   "truth": 1991,
+   "reply": "1991  \n\nThe central span of the Akashi Kaikyo Bridge is known to be the longest in the world for a suspension bridge. It spans 1,991 meters, a feat of engineering that allows it to withstand harsh weather and seismic activity.",
+   "value": 1991.0,
+   "cost": 4.86e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 5,
+   "truth": 1991,
+   "reply": "1991\n\nThe central span of the Akashi Kaikyo Bridge is the longest of any suspension bridge in the world, measuring 1,991 meters. This impressive length allows it to handle significant environmental challenges, such as strong winds and earthquakes.",
+   "value": 1991.0,
+   "cost": 4.8e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 6,
+   "truth": 1991,
+   "reply": "1991\n\nThe central span of the Akashi Kaikyo Bridge is known to be the longest of any bridge in the world. It spans approximately 1991 meters.",
+   "value": 1991.0,
+   "cost": 3.9e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 7,
+   "truth": 1991,
+   "reply": "1991  \n\nThe central span of the Akashi Kaikyo Bridge is the longest of any suspension bridge in the world. It measures 1,991 meters, which allows it to withstand strong winds and earthquakes in the region.",
+   "value": 1991.0,
+   "cost": 4.56e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 8,
+   "truth": 1991,
+   "reply": "1991\n\nThe central span of the Akashi Kaikyo Bridge is one of the longest in the world, measuring approximately 1,991 meters. It was completed in 1995 and is a significant engineering feat connecting Awaji Island to the city of Kobe.",
+   "value": 1991.0,
+   "cost": 5.0400000000000005e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "akashi",
+   "rep": 9,
+   "truth": 1991,
+   "reply": "1991  \n\nThe central span of the Akashi Kaikyo Bridge is known to be the longest of any suspension bridge in the world. My estimate is based on common knowledge about its specifications, which is frequently cited in engineering literature.",
+   "value": 1991.0,
+   "cost": 4.62e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 0,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 metres (40,230 feet), making it the deepest man-made hole on Earth. Drilling began in 1970 and continued until 1994, primarily for scientific research into Earth's crust.",
+   "value": 12262.0,
+   "cost": 5.13e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 1,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 meters, making it the deepest artificial point on the Earth. It was drilled for scientific research to study the Earth's crust and geological conditions at great depths.",
+   "value": 12262.0,
+   "cost": 4.59e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 2,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of approximately 12,262 metres. This project, which began in 1970, aimed to explore the Earth's crust and gain insights into geological phenomena.",
+   "value": 12262.0,
+   "cost": 4.35e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 3,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 metres. It was drilled in the Soviet Union and is recorded as the deepest artificial point on Earth.",
+   "value": 12262.0,
+   "cost": 3.9899999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 4,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 meters. It was drilled in the former Soviet Union and is known for being the deepest artificial point on Earth.",
+   "value": 12262.0,
+   "cost": 4.1099999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 5,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of approximately 12,262 meters. It was drilled in the former Soviet Union and is the deepest artificial point on Earth, designed to investigate the geological properties of the Earth's crust.",
+   "value": 12262.0,
+   "cost": 4.65e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 6,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a maximum depth of 12,262 meters. This project, initiated by the Soviet Union in the 1970s, aimed to explore the Earth's crust and gather geological data.",
+   "value": 12262.0,
+   "cost": 4.5299999999999997e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 7,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 meters. It was an extensive scientific drilling project in Russia, which aimed to explore the Earth's crust and provide insights into geological processes.",
+   "value": 12262.0,
+   "cost": 4.35e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 8,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a total depth of 12,262 meters. It is the deepest artificial point on Earth, drilled for scientific research into the Earth's crust and geothermal properties.",
+   "value": 12262.0,
+   "cost": 4.23e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "kola",
+   "rep": 9,
+   "truth": 12262,
+   "reply": "12262  \nThe Kola Superdeep Borehole reached a depth of 12,262 meters. This project, which began in the 1970s in Russia, aimed to explore the Earth's crust and gather geological data.",
+   "value": 12262.0,
+   "cost": 4.41e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 0,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond weighs approximately 45.52 carats. It is one of the largest blue diamonds in the world and has a well-documented history that includes various ownerships and legends.",
+   "value": 45.52,
+   "cost": 4.2e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 1,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond weighs approximately 45.52 carats, making it one of the largest blue diamonds in the world. Its unique size and rich history contribute to its fame and value.",
+   "value": 45.52,
+   "cost": 4.14e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 2,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond weighs approximately 45.52 carats. It is renowned not only for its size but also for its striking blue color and the history surrounding it.",
+   "value": 45.52,
+   "cost": 3.9e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 3,
+   "truth": 45.52,
+   "reply": "45.52\n\nThe Hope Diamond weighs approximately 45.52 carats, making it one of the largest blue diamonds in the world. Its unique weight contributes to its fame and value, as well as its intriguing history.",
+   "value": 45.52,
+   "cost": 4.3799999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 4,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond weighs approximately 45.52 carats. This iconic gem is well-known not only for its size but also for its history and striking blue color.",
+   "value": 45.52,
+   "cost": 3.9e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 5,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond weighs approximately 45.52 carats. It is famous not only for its size but also for its blue color and storied history.",
+   "value": 45.52,
+   "cost": 3.78e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 6,
+   "truth": 45.52,
+   "reply": "45.52 \n\nThe Hope Diamond weighs approximately 45.52 carats, making it one of the largest and most famous diamonds in the world. Its unique size and deep blue color contribute to its historical significance and allure.",
+   "value": 45.52,
+   "cost": 4.3799999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 7,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond is famously known for its deep blue color and is one of the largest diamonds in the world. It weighs 45.52 carats, which has been well-documented in historical records.",
+   "value": 45.52,
+   "cost": 4.3799999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 8,
+   "truth": 45.52,
+   "reply": "45.52  \n\nThe Hope Diamond weighs approximately 45.52 carats, making it one of the largest blue diamonds in the world. Its unique size and vivid color contribute to its fame and historical significance.",
+   "value": 45.52,
+   "cost": 4.2e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "hope_diamond",
+   "rep": 9,
+   "truth": 45.52,
+   "reply": "45.52  \nThe Hope Diamond weighs approximately 45.52 carats, making it one of the largest blue diamonds in the world. Its unique color and size contribute to its legendary status and historical significance.",
+   "value": 45.52,
+   "cost": 4.2e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 0,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House's roof consists of 1,056,000 white and cream-colored tiles, which are made of a special ceramic glaze that gives them a unique appearance. The tiles are arranged in a pattern that contributes to the building's iconic design and distinctive sail-like structure.",
+   "value": 1056000.0,
+   "cost": 5.3849999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 1,
+   "truth": 1056006,
+   "reply": "100000  \n\nThe Sydney Opera House has over 1,000,000 ceramic tiles covering its roof sails, but many of those tiles are not on the visible surface. My estimate is based on an assumption that only a part of those visible tiles directly covers the main roof sails.",
+   "value": 100000.0,
+   "cost": 5.0249999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 2,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House has 1,056,000 tiles that cover its roof sails. These tiles are made from a ceramic material and are designed to reflect light, creating a stunning visual effect that complements the iconic architectural design.",
+   "value": 1056000.0,
+   "cost": 4.7249999999999997e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 3,
+   "truth": 1056006,
+   "reply": "100000\n\nThe Sydney Opera House's roof is made up of around 1,000,000 white ceramic tiles, which are arranged in a way that gives it its distinctive sail-like appearance. Considering the complexity and the various sections of the roof, I estimate that around 100,000 of these tiles cover the visible sails or the prominent parts of the structure.",
+   "value": 100000.0,
+   "cost": 6.045e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 4,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House has a unique design with its sail-like roof structure. Given the area of the roof and the typical size of the tiles used, I estimate that around one million tiles would be necessary to cover the entire surface area.",
+   "value": 1056000.0,
+   "cost": 4.845e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 5,
+   "truth": 1056006,
+   "reply": "1,056\n\nThe Sydney Opera House has over 1,000 individual roof sails, and considering the design and structure, each sail is likely covered with multiple tiles. Given the iconic nature and extensive area of the sails, my estimate reflects the total number of tiles used across all of them.",
+   "value": 1056.0,
+   "cost": 5.205e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 6,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House has a unique design featuring over a thousand individual roof sails. Based on this structure and taking into consideration the average size and coverage of the tiles used, I estimate there are approximately 1,056,000 tiles covering the sails.",
+   "value": 1056000.0,
+   "cost": 5.0249999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 7,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House has over a million individual roof tiles, with estimates often suggesting around 1 million to 1.5 million tiles. The design's complexity and size contribute to this high number, primarily using glossy white and cream tiles.",
+   "value": 1056000.0,
+   "cost": 4.905e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 8,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House is covered with approximately 1,056,000 ceramic tiles. This figure is based on the design specifications and the number of individual tiles used to create the unique sail-like roof structure.",
+   "value": 1056000.0,
+   "cost": 4.484999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "opera_tiles",
+   "rep": 9,
+   "truth": 1056006,
+   "reply": "1,056,000\n\nThe Sydney Opera House's roof is made up of thousands of individual tiles. Given the large surface area and the distinctive sail-like shapes, I estimate that there are approximately 1 million tiles based on known information about the structure and its coverage.",
+   "value": 1056000.0,
+   "cost": 4.905e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 0,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for being one of the deepest lakes in the United States, formed in a caldera after a volcanic eruption. The maximum depth is often reported around 593 meters, but I rounded up slightly for clarity.",
+   "value": 594.0,
+   "cost": 4.59e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 1,
+   "truth": 594,
+   "reply": "593  \nCrater Lake in Oregon is known for being one of the deepest lakes in the United States. The lake was formed in a collapsed volcano, and geological surveys estimate its maximum depth to be around 593 meters.",
+   "value": 593.0,
+   "cost": 4.35e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 2,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for being the deepest lake in the United States, and it has a maximum depth that is often cited in various geological studies. Based on my knowledge, I believe the maximum depth is approximately 594 meters.",
+   "value": 594.0,
+   "cost": 4.59e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 3,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for being exceptionally deep, primarily due to its formation in a collapsed volcanic caldera. My estimate is based on historical data indicating that it is one of the deepest lakes in the United States.",
+   "value": 594.0,
+   "cost": 4.41e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 4,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for its deep blue water and is the deepest lake in the United States. It reaches a maximum depth of about 594 meters.",
+   "value": 594.0,
+   "cost": 3.69e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 5,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for being the deepest lake in the United States, formed in the caldera of an extinct volcano. Based on my knowledge, its maximum depth is approximately 594 meters.",
+   "value": 594.0,
+   "cost": 4.17e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 6,
+   "truth": 594,
+   "reply": "592  \nCrater Lake is known for being the deepest lake in the United States, and its maximum depth is often cited to be around 594 meters. My estimate reflects the commonly accepted figure found in various geological studies and resources.",
+   "value": 592.0,
+   "cost": 4.47e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 7,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for its significant depth, being the deepest lake in the United States. Geologically, it was formed in a caldera created by a collapsed volcano, contributing to its depth measurement.",
+   "value": 594.0,
+   "cost": 4.29e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 8,
+   "truth": 594,
+   "reply": "594  \nCrater Lake in Oregon is known for being the deepest lake in the United States, and it has a well-documented maximum depth. I believe the depth is around 594 metres based on geological surveys and available data.",
+   "value": 594.0,
+   "cost": 4.47e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "crater_lake",
+   "rep": 9,
+   "truth": 594,
+   "reply": "594  \nCrater Lake is known for its deep blue water and significant depth, being formed in the caldera of a collapsed volcano. I estimate it to be around 594 meters deep, which is often cited in geological studies.",
+   "value": 594.0,
+   "cost": 4.47e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 0,
+   "truth": 2080,
+   "reply": "2000  \nThe Liberty Bell weighs approximately 2,080 pounds. It is made of a bronze alloy and has become an iconic symbol of American independence.",
+   "value": 2000.0,
+   "cost": 3.5249999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 1,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell is often reported to weigh approximately 2,080 pounds. This weight is derived from historical records and descriptions of the bell's casting and size.",
+   "value": 2080.0,
+   "cost": 3.7649999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 2,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds. This weight is based on historical records that detail its specifications and construction.",
+   "value": 2080.0,
+   "cost": 3.345e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 3,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds. This estimate is based on historical records and measurements often cited in reference to the bell's specifications.",
+   "value": 2080.0,
+   "cost": 3.645e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 4,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell is commonly cited to weigh around 2,080 pounds. This weight is largely due to its solid metal composition, which consists of a significant amount of copper, silver, and tin.",
+   "value": 2080.0,
+   "cost": 4.245e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 5,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds. This weight is often cited in historical references related to the bell's significance and physical characteristics.",
+   "value": 2080.0,
+   "cost": 3.585e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 6,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds (or around 1,040 kilograms). This weight is well-documented and is often cited in historical references about the bell.",
+   "value": 2080.0,
+   "cost": 4.005e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 7,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds. This figure is commonly cited in historical references regarding the bell's specifications.",
+   "value": 2080.0,
+   "cost": 3.345e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 8,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell is commonly known to weigh approximately 2,080 pounds. This weight is often cited in various historical references related to the bell's specifications.",
+   "value": 2080.0,
+   "cost": 3.704999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "liberty_bell",
+   "rep": 9,
+   "truth": 2080,
+   "reply": "2080  \nThe Liberty Bell weighs approximately 2,080 pounds. This weight is often cited in historical references and is commonly accepted in discussions about the bell's specifications.",
+   "value": 2080.0,
+   "cost": 3.704999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 0,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge, which connects Denmark and Sweden, has a bridge section that is approximately 7.8 kilometers long. This length is generally acknowledged as being about 7,845 meters.",
+   "value": 7845.0,
+   "cost": 4.455e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 1,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge is a combined road and rail bridge that connects Denmark and Sweden. Its bridge section specifically spans approximately 7,845 meters.",
+   "value": 7845.0,
+   "cost": 3.855e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 2,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge is approximately 7.8 kilometers long, and since 1 kilometer equals 1000 meters, this translates to about 7845 meters when considering just the bridge section itself. I recall that it connects Sweden and Denmark, spanning a significant body of water.",
+   "value": 7845.0,
+   "cost": 5.475e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 3,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge is approximately 8 kilometers long, and since the question specifies the bridge section only, I estimate the length to be around 7,845 meters. This figure aligns with the known specifications of the bridge's length as being primarily above water.",
+   "value": 7845.0,
+   "cost": 5.235e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 4,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge is approximately 8 kilometers long in total, but the bridge section alone is slightly shorter than that. My estimate reflects the reported length of the bridge without any of the associated tunnel or island sections.",
+   "value": 7845.0,
+   "cost": 4.6949999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 5,
+   "truth": 7845,
+   "reply": "7,845  \nThe Oresund Bridge, which spans the sea between Denmark and Sweden, has a total length of about 8 kilometers, but the bridge section itself is shorter. Based on my training data, the bridge length is approximately 7,845 meters.",
+   "value": 7845.0,
+   "cost": 5.1149999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 6,
+   "truth": 7845,
+   "reply": "7850  \nThe Oresund Bridge, which connects Denmark and Sweden, has a bridge section that is approximately 7,850 meters long. This measurement accounts solely for the bridge portion, excluding the tunnel and other structures connected to it.",
+   "value": 7850.0,
+   "cost": 4.755e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 7,
+   "truth": 7845,
+   "reply": "7,845  \nThe Oresund Bridge is approximately 7.8 kilometers long in total, but the bridge section only (excluding the tunnel and island) is shorter. Based on my knowledge, I estimate the bridge section alone to be around 7,845 meters.",
+   "value": 7845.0,
+   "cost": 5.175e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 8,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge, which connects Sweden and Denmark, is approximately 8 kilometers long in total, and the bridge section itself (excluding the tunnel and artificial island) is around 7.8 kilometers. This estimate reflects the known dimensions of the bridge from reliable sources.",
+   "value": 7845.0,
+   "cost": 5.355e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "oresund",
+   "rep": 9,
+   "truth": 7845,
+   "reply": "7845  \nThe Oresund Bridge, which connects Denmark and Sweden, has a bridge section that spans approximately 7.8 kilometers or 7,845 meters. This length does not include the connecting tunnel or artificial island.",
+   "value": 7845.0,
+   "cost": 4.635e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 0,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is widely recognized as one of the longest in the world. Based on my knowledge, it measures around 1,410 meters, making it a significant engineering feat in the United Kingdom.",
+   "value": 1410.0,
+   "cost": 4.635e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 1,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is well-known as one of the longest suspension bridge spans in the world. My estimate is based on common knowledge about the bridge, which has been a notable engineering landmark since its completion.",
+   "value": 1410.0,
+   "cost": 4.635e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 2,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is known to be one of the longest suspension bridge spans in the world. I recall it being approximately 1,410 meters long.",
+   "value": 1410.0,
+   "cost": 4.035e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 3,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is known to be one of the longest in the world, and I recall it being approximately 1,410 metres. This iconic structure was completed in 1981 and has been a significant engineering feat since its opening.",
+   "value": 1410.0,
+   "cost": 5.0549999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 4,
+   "truth": 1410,
+   "reply": "1219\n\nThe main span of the Humber Bridge is one of the longest in the world, and I recall it being just over a kilometre long. My estimate reflects that it is specifically 1,410 meters overall, but the main span itself is approximately 1,220 meters.",
+   "value": 1219.0,
+   "cost": 5.235e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 5,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is one of the longest suspension bridge spans in the world. My estimate is based on historical knowledge about the bridge, which is known for its impressive length.",
+   "value": 1410.0,
+   "cost": 4.2749999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 6,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is famously one of the longest in the world, and I believe it measures around 1,410 metres. This span was a significant achievement in engineering when it was completed in 1981.",
+   "value": 1410.0,
+   "cost": 4.755e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 7,
+   "truth": 1410,
+   "reply": "1,410  \n\nThe main span of the Humber Bridge is approximately 1,410 meters. This makes it one of the longest suspension bridges in the world, showcasing impressive engineering.",
+   "value": 1410.0,
+   "cost": 3.915e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 8,
+   "truth": 1410,
+   "reply": "1,410\n\nThe main span of the Humber Bridge is widely known to be one of the longest suspension bridge spans in the world. My estimate is based on common references and my knowledge of the bridge's specifications.",
+   "value": 1410.0,
+   "cost": 4.3349999999999997e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "humber",
+   "rep": 9,
+   "truth": 1410,
+   "reply": "1234\n\nThe main span of the Humber Bridge is one of the longest in the world, and my estimate reflects a number that is generally cited in various references related to the bridge's specifications. It is well-known for its impressive engineering achievements.",
+   "value": 1234.0,
+   "cost": 4.695e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 0,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe is well-known for its significant depth, and various sources indicate that it is one of the deepest lakes in North America. My estimate aligns with general consensus and reports that cite its maximum depth around this number.",
+   "value": 501.0,
+   "cost": 4.365e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 1,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe is known for being one of the deepest lakes in the United States, and my estimate reflects the widely reported maximum depth of around 500 meters. This depth allows for unique aquatic ecosystems and significant water storage capacity.",
+   "value": 501.0,
+   "cost": 4.425e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 2,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe's maximum depth is commonly cited around this figure. It is one of the deepest lakes in North America, and its geological features contribute to this significant depth.",
+   "value": 501.0,
+   "cost": 3.7649999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 3,
+   "truth": 501,
+   "reply": "501\n\nLake Tahoe is known to be one of the deepest lakes in North America, and various sources have suggested it reaches depths just over 500 meters. My estimate of 501 meters reflects this understanding based on the most commonly cited depth.",
+   "value": 501.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 4,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe has a well-documented maximum depth, and my estimate is based on commonly available data sources. It is known for being one of the deepest lakes in North America.",
+   "value": 501.0,
+   "cost": 3.8849999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 5,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe has a maximum depth of approximately 501 meters, making it the second deepest lake in the United States after Crater Lake. This is a well-documented figure widely cited in various geographical and hydrological sources.",
+   "value": 501.0,
+   "cost": 4.425e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 6,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe has a widely reported maximum depth of around 501 meters (1,645 feet). This depth makes it one of the deepest lakes in the United States and contributes to its unique geological and ecological characteristics.",
+   "value": 501.0,
+   "cost": 4.3049999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 7,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe has been widely reported to have a maximum depth of around 1,645 feet, which converts to approximately 501 meters. Its deep and clear waters contribute to its reputation as one of the deepest lakes in North America.",
+   "value": 501.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 8,
+   "truth": 501,
+   "reply": "501  \n\nLake Tahoe's maximum depth is well-known and has been cited in various sources. My estimate aligns with commonly accepted figures indicating that it is over 500 metres deep.",
+   "value": 501.0,
+   "cost": 3.7649999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "tahoe",
+   "rep": 9,
+   "truth": 501,
+   "reply": "501  \nLake Tahoe has a maximum depth of around 501 meters. This deep freshwater lake is located in the Sierra Nevada mountain range of the United States and is known for its clarity and stunning blue waters.",
+   "value": 501.0,
+   "cost": 4.125e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 0,
+   "truth": 230,
+   "reply": "230  \nLoch Ness has been surveyed multiple times, and the most commonly cited maximum depth is around 230 meters. This depth gives it a reputation as one of the largest and deepest bodies of freshwater in the UK.",
+   "value": 230.0,
+   "cost": 4.3049999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 1,
+   "truth": 230,
+   "reply": "230  \nLoch Ness is one of the largest and deepest freshwater lakes in the UK. Its maximum depth is around 230 meters, making it a significant feature of the Scottish landscape.",
+   "value": 230.0,
+   "cost": 3.8849999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 2,
+   "truth": 230,
+   "reply": "230  \nLoch Ness is known for its significant depth, and various surveys have measured its deepest point at around 230 meters. This figure has been consistently reported in geological studies and is commonly cited in reference to the lake's characteristics.",
+   "value": 230.0,
+   "cost": 4.484999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 3,
+   "truth": 230,
+   "reply": "230  \nLoch Ness is famously known for its depth, and the commonly referenced maximum depth is around 230 metres. This depth contributes to its unique ecosystem and the mystique surrounding its legendary creature.",
+   "value": 230.0,
+   "cost": 4.065e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 4,
+   "truth": 230,
+   "reply": "230  \nLoch Ness has a maximum depth of around 230 metres, which is one of the reasons it is famous and often linked to myths and legends, including that of the Loch Ness Monster. This depth makes it the second-largest Scottish loch by surface area and the largest by volume.",
+   "value": 230.0,
+   "cost": 5.205e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 5,
+   "truth": 230,
+   "reply": "230  \nLoch Ness is known for its impressive depth, with various sources estimating it to be one of the deepest lakes in Scotland. Previous records have placed its maximum depth at around 230 meters, which aligns with the geological characteristics of the area.",
+   "value": 230.0,
+   "cost": 4.6649999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 6,
+   "truth": 230,
+   "reply": "230\n\nLoch Ness is known for being one of the deepest lochs in Scotland, and various studies have reported its maximum depth to be around 230 meters. This depth contributes to its unique ecosystem and the legends associated with the loch, including the famous Loch Ness Monster.",
+   "value": 230.0,
+   "cost": 5.0249999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 7,
+   "truth": 230,
+   "reply": "237\n\nLoch Ness is known for its significant depth, and various sources suggest that it reaches a maximum depth of around 230 to 240 meters. Based on this information, I estimate the maximum depth to be 237 meters.",
+   "value": 237.0,
+   "cost": 4.484999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 8,
+   "truth": 230,
+   "reply": "230  \nLoch Ness is known for being one of the deepest bodies of freshwater in Scotland, and various measurements indicate its maximum depth is around 230 meters. This depth is often cited in various sources discussing the loch's geological features.",
+   "value": 230.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "loch_ness",
+   "rep": 9,
+   "truth": 230,
+   "reply": "230  \nThe maximum depth of Loch Ness is commonly cited as being around 230 meters. This depth contributes to the loch's reputation and mystery, particularly in relation to its famous resident, Nessie.",
+   "value": 230.0,
+   "cost": 4.125e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 0,
+   "truth": 420.5,
+   "reply": "421\n\nThe Jin Mao Tower is one of the tallest buildings in Shanghai, standing at approximately 421 meters tall. It is well-known as a prominent landmark and features a distinctive postmodern style.",
+   "value": 421.0,
+   "cost": 4.0499999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 1,
+   "truth": 420.5,
+   "reply": "420  \nThe Jin Mao Tower in Shanghai is approximately 420 meters tall, making it one of the tallest buildings in China. It was completed in 1999 and stands as a prominent example of postmodern architecture.",
+   "value": 420.0,
+   "cost": 4.29e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 2,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai has a reported height of approximately 421 meters. This figure is widely recognized and is often cited in architectural databases and resources about notable skyscrapers.",
+   "value": 421.0,
+   "cost": 3.929999999999999e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 3,
+   "truth": 420.5,
+   "reply": "421  \n\nThe Jin Mao Tower in Shanghai stands at a height of 421 meters, making it one of the tallest buildings in the city. It was completed in 1999 and is notable for its distinctive postmodern architecture.",
+   "value": 421.0,
+   "cost": 4.41e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 4,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai is approximately 421 meters tall. It was completed in 1999 and was one of the tallest buildings in the world at the time of its construction.",
+   "value": 421.0,
+   "cost": 4.0499999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 5,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai stands at approximately 421 meters tall. It is known for its distinctive postmodern architecture and was the tallest building in China when it was completed in 1999.",
+   "value": 421.0,
+   "cost": 4.17e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 6,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai is one of the tallest buildings in the world. It has a distinctive tiered design and reaches a height of approximately 421 meters.",
+   "value": 421.0,
+   "cost": 3.81e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 7,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai has a height of 421 meters, making it one of the tallest buildings in China. It is known for its distinctive architecture and its role as a mixed-use building, housing offices, a hotel, and observation decks.",
+   "value": 421.0,
+   "cost": 4.8299999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 8,
+   "truth": 420.5,
+   "reply": "421  \n\nThe Jin Mao Tower, completed in 1999, stands at a height of 421 meters. It is one of the tallest buildings in Shanghai and a notable landmark of the city.",
+   "value": 421.0,
+   "cost": 4.0499999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "jin_mao",
+   "rep": 9,
+   "truth": 420.5,
+   "reply": "421  \nThe Jin Mao Tower in Shanghai has a height of 421 meters. This includes the spire, as the building is primarily known for its distinctive design and significance in the city’s skyline.",
+   "value": 421.0,
+   "cost": 4.1099999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 0,
+   "truth": 5655,
+   "reply": "5,650  \n\nLake Vänern, the largest lake in Sweden and the third largest in Europe, has a known surface area of approximately 5,650 square kilometers. This figure is widely cited in geographic studies and resources related to Sweden's natural features.",
+   "value": 5650.0,
+   "cost": 4.845e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 1,
+   "truth": 5655,
+   "reply": "5,600\n\nLake Vänern is the largest lake in Sweden and the largest lake in the European Union. By referencing various geographical data, I estimate its surface area to be around 5,600 square kilometers.",
+   "value": 5600.0,
+   "cost": 4.365e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 2,
+   "truth": 5655,
+   "reply": "5650\n\nLake Vänern is the largest lake in Sweden and the third-largest in Europe. Based on geographical data, my estimate for its surface area is approximately 5,650 square kilometers.",
+   "value": 5650.0,
+   "cost": 4.125e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 3,
+   "truth": 5655,
+   "reply": "5,600 \n\nLake Vänern is the largest lake in Sweden and the third largest in Europe, so I based my estimate on its known size relative to other lakes in the region. It covers a significant area, which supports my estimate being in the thousands of square kilometers.",
+   "value": 5600.0,
+   "cost": 5.0849999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 4,
+   "truth": 5655,
+   "reply": "5,500  \nLake Vänern, the largest lake in Sweden, has an estimated surface area of approximately 5,500 square kilometers. This figure is based on geographical data about the lake's dimensions.",
+   "value": 5500.0,
+   "cost": 4.245e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 5,
+   "truth": 5655,
+   "reply": "5650  \nLake Vänern is the largest lake in Sweden and the third-largest in Europe. Its surface area is well-documented, and my estimate reflects its recognized measurement.",
+   "value": 5650.0,
+   "cost": 3.8849999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 6,
+   "truth": 5655,
+   "reply": "5,500  \n\nLake Vanern is the largest lake in Sweden and the third largest in Central Europe. Based on various geographical sources, I estimate its surface area to be around 5,500 square kilometers.",
+   "value": 5500.0,
+   "cost": 4.245e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 7,
+   "truth": 5655,
+   "reply": "5650  \nLake Vänern is the largest lake in Sweden and the third largest in Europe. Its surface area is commonly reported to be around this figure.",
+   "value": 5650.0,
+   "cost": 3.645e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 8,
+   "truth": 5655,
+   "reply": "5,500\n\nLake Vänern is the largest lake in Sweden and the third largest in Europe. Based on geographical data and comparisons with other large lakes, I estimate its surface area to be around 5,500 square kilometers.",
+   "value": 5500.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "vanern",
+   "rep": 9,
+   "truth": 5655,
+   "reply": "5,550  \nLake Vänern is the largest lake in Sweden and the third largest in Europe. Its surface area is commonly cited in various geographic references, leading me to this estimate.",
+   "value": 5550.0,
+   "cost": 4.005e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 0,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known for its iconic design and significant number of floors and windows. Based on typical window counts for buildings of similar height and structure, I estimate there to be approximately 6,500 windows in total.",
+   "value": 6500.0,
+   "cost": 4.4999999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 1,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building has approximately 6,500 windows. This number is based on architectural specifications and common estimates for large skyscrapers like it.",
+   "value": 6500.0,
+   "cost": 3.54e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 2,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known to have a substantial number of windows, approximately 6,500. This figure is widely referenced in various articles and architectural resources concerning the building's design and construction.",
+   "value": 6500.0,
+   "cost": 4.1400000000000003e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 3,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building has approximately 6,500 windows. This estimate takes into account the building's height and design, which features a distinctive Art Deco style with numerous windows throughout its structure.",
+   "value": 6500.0,
+   "cost": 4.08e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 4,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known to have approximately 6,500 windows. This figure is commonly cited in various architectural resources and is based on the building's extensive facade.",
+   "value": 6500.0,
+   "cost": 3.84e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 5,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is a tall skyscraper with many floors, and it features a significant number of windows, typically estimated to be around 10 windows per floor across 102 floors. My estimate reflects the general understanding of its architecture and the need for natural light in commercial buildings.",
+   "value": 6500.0,
+   "cost": 5.16e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 6,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known to have approximately 6,500 windows based on architectural details and design standards. This figure reflects the iconic skyscraper's size and layout, which includes numerous office spaces across its multiple floors.",
+   "value": 6500.0,
+   "cost": 4.4399999999999995e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 7,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known to have a large number of windows, with estimates generally ranging from 6,000 to 7,000. My estimate is based on various architectural sources and my understanding of similar skyscrapers from that era.",
+   "value": 6500.0,
+   "cost": 4.68e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 8,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known to have approximately 6,500 windows. This number is often cited in various sources discussing the building's architectural features.",
+   "value": 6500.0,
+   "cost": 3.6e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "esb_windows",
+   "rep": 9,
+   "truth": 6514,
+   "reply": "6500  \nThe Empire State Building is known for its iconic Art Deco architecture and has a large number of floors, which contributes to a significant number of windows. Based on various sources, it is estimated that there are around 6,500 windows in total.",
+   "value": 6500.0,
+   "cost": 4.74e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 0,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard set the world record for speed in 1938 during a test run, achieving 126 miles per hour. This record still stands as the fastest speed achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.425e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 1,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run in 1938. This speed remains one of the highest ever achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.3049999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 2,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run on July 3, 1938. This record still stands as the fastest speed achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 3,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run on July 3, 1938. This record still holds for the fastest speed achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.5449999999999993e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 4,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run on July 3, 1938. This record remains one of the highest speeds ever achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.6049999999999994e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 5,
+   "truth": 126,
+   "reply": "126\n\nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run in 1938. This speed remains the highest officially recorded speed for a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.245e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 6,
+   "truth": 126,
+   "reply": "126  \nIn its 1938 world record run, the steam locomotive Mallard reached a top speed of 126 miles per hour. This record is still recognized today as the fastest speed achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.425e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 7,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its record run in 1938. This speed remains one of the highest ever achieved by a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.245e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 8,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run in 1938. This record still stands as the fastest recorded speed for a steam locomotive.",
+   "value": 126.0,
+   "cost": 4.3049999999999996e-05
+  },
+  {
+   "model": "gpt-4o-mini",
+   "item": "mallard",
+   "rep": 9,
+   "truth": 126,
+   "reply": "126  \nThe steam locomotive Mallard reached a top speed of 126 miles per hour during its world record run in 1938, which remains one of the fastest speeds ever achieved by a steam locomotive. This record is a significant achievement in railway history, showcasing the engineering capabilities of that era.",
+   "value": 126.0,
+   "cost": 5.3849999999999994e-05
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 0,
+   "truth": 226,
+   "reply": "226\nThe single main drop of Kaieteur Falls is commonly listed as about 226 metres high (roughly 741 feet). This figure is widely reported, though exact height can vary slightly by measurement method.",
+   "value": 226.0,
+   "cost": 0.00030835000000000004
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 1,
+   "truth": 226,
+   "reply": "226\nCommonly cited as 226 meters (about 741 feet). It is one of the world's highest single-drop waterfalls.",
+   "value": 226.0,
+   "cost": 0.00032715
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 2,
+   "truth": 226,
+   "reply": "226\nThe main drop is widely cited as about 226 meters tall (roughly 741 feet). Some sources round or slightly adjust the value, but 226 m is the standard figure.",
+   "value": 226.0,
+   "cost": 0.00035794999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 3,
+   "truth": 226,
+   "reply": "226\nThis is the widely cited height of the falls’ main drop, approximately 226 metres. Measurements can vary slightly by source, but 226 m is the standard figure.",
+   "value": 226.0,
+   "cost": 0.00038235
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 4,
+   "truth": 226,
+   "reply": "226\nThe main drop of Kaieteur Falls is about 226 metres tall on the Potaro River in Guyana.\nIt is considered one of the world's tallest single-drop waterfalls.",
+   "value": 226.0,
+   "cost": 0.00038275
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 5,
+   "truth": 226,
+   "reply": "226\nThe main drop of Kaieteur Falls is commonly listed at about 226 meters (around 741 feet). It is a single vertical drop on the Potaro River in Guyana.",
+   "value": 226.0,
+   "cost": 0.00030675
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 6,
+   "truth": 226,
+   "reply": "226\nThe main drop is commonly given as about 226 meters (roughly 741 feet). This makes Kaieteur Falls one of the world’s tallest single-drop waterfalls, though figures can vary slightly with measurement method.",
+   "value": 226.0,
+   "cost": 0.00025795
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 7,
+   "truth": 226,
+   "reply": "226\nThe main drop of Kaieteur Falls is commonly cited as 226 meters. It is a single, continuous drop on the Potaro River in Guyana.",
+   "value": 226.0,
+   "cost": 0.00027915
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 8,
+   "truth": 226,
+   "reply": "226\nThe height of the main drop of Kaieteur Falls is widely given as 226 metres. Some sources quote a range around 220–230 metres, but 226 m is the standard figure.",
+   "value": 226.0,
+   "cost": 0.00038475
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kaieteur",
+   "rep": 9,
+   "truth": 226,
+   "reply": "226\nKaieteur Falls' main drop is about 226 meters high. Some sources give slightly different figures, but 226 m is widely cited as the height.",
+   "value": 226.0,
+   "cost": 0.00040715
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 0,
+   "truth": 97.5,
+   "reply": "97.5\n\nWingspan is commonly cited as about 320 feet, which is roughly 97 meters; 97.5 m is a reasonable, close estimate to that figure.",
+   "value": 97.5,
+   "cost": 0.00048575
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 1,
+   "truth": 97.5,
+   "reply": "28.0\n\nThe Spruce Goose is commonly cited with a wingspan of about 92 feet, which converts to roughly 28 meters. This is a commonly accepted figure for the H-4 Hercules.",
+   "value": 28.0,
+   "cost": 0.00048735
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 2,
+   "truth": 97.5,
+   "reply": "97.5\nCommonly cited as about 320 feet, which is roughly 97.5 meters. The enormous wingspan was needed to provide enough lift for the massive wing area with four large engines.",
+   "value": 97.5,
+   "cost": 0.00033375
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 3,
+   "truth": 97.5,
+   "reply": "97.5\nCommonly cited as about 97.5 meters (roughly 320 feet) wingspan. It was designed as an exceptionally large flying boat, but it never achieved a powered flight.",
+   "value": 97.5,
+   "cost": 0.0007433499999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 4,
+   "truth": 97.5,
+   "reply": "97.5\nThe wingspan is widely listed as 320 ft, which converts to about 97.5 meters.",
+   "value": 97.5,
+   "cost": 0.00032695
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 5,
+   "truth": 97.5,
+   "reply": "97.5\nThe Spruce Goose wingspan is widely cited as about 320 ft, which is roughly 97.5 m. This reflects its enormous wing area for a wooden flying boat.",
+   "value": 97.5,
+   "cost": 0.00043535
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 6,
+   "truth": 97.5,
+   "reply": "28\nThe Spruce Goose’s wingspan is commonly listed as about 92 feet, which is roughly 28 metres. Some sources quote slightly larger figures (around 30 metres), but 28 m is the standard conversion.",
+   "value": 28.0,
+   "cost": 0.00061735
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 7,
+   "truth": 97.5,
+   "reply": "97.5\n320 feet (approximately 97.5 meters) is the commonly cited wingspan of the Spruce Goose, and it remains the largest wingspan of any aircraft built.",
+   "value": 97.5,
+   "cost": 0.00051135
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 8,
+   "truth": 97.5,
+   "reply": "98\nAround 98 meters, about 320 feet, which is commonly cited as the Spruce Goose’s wingspan. It was one of the widest wingspans of its era.",
+   "value": 98.0,
+   "cost": 0.00038335
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "spruce_goose",
+   "rep": 9,
+   "truth": 97.5,
+   "reply": "97.5\nIts wingspan was about 97.5 meters (320 feet), placing it among the largest wingspans ever built. The H-4 Hercules never entered production and only underwent a brief test flight in 1947.",
+   "value": 97.5,
+   "cost": 0.00061815
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 0,
+   "truth": 14552,
+   "reply": "14000\nThe Lake of the Woods is enormous and densely studded with small islets and rocks; commonly cited estimates place the count around fourteen thousand.",
+   "value": 14000.0,
+   "cost": 0.00043129999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 1,
+   "truth": 14552,
+   "reply": "14500\nEstimates vary, but Lake of the Woods is commonly cited as having about 14,000 islands. The exact count depends on how one defines an island, especially for tiny islets and rocks.",
+   "value": 14500.0,
+   "cost": 0.0004361
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 2,
+   "truth": 14552,
+   "reply": "14000\nLake of the Woods is renowned for its immense number of islands, with counts typically cited around 14,000, though the exact number varies based on the definition of an “island.”",
+   "value": 14000.0,
+   "cost": 0.00033289999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 3,
+   "truth": 14552,
+   "reply": "14000\nThere are widely cited estimates of roughly fourteen thousand islands in Lake of the Woods; actual counts vary by convention for what counts as an island and changes in water levels.",
+   "value": 14000.0,
+   "cost": 0.00043329999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 4,
+   "truth": 14552,
+   "reply": "14000\nCommonly cited figure for Lake of the Woods is over 14,000 islands. Counts vary depending on whether very small landforms are considered islands.",
+   "value": 14000.0,
+   "cost": 0.00040649999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 5,
+   "truth": 14552,
+   "reply": "14000\nLake of the Woods is vast with a highly irregular shoreline, yielding a huge number of islets and rocks; a commonly cited figure is about 14,000 islands.",
+   "value": 14000.0,
+   "cost": 0.0005105
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 6,
+   "truth": 14552,
+   "reply": "14000\nEstimates vary, but Lake of the Woods is commonly cited as having over 14,000 islands; the exact count depends on whether very small islets are counted.",
+   "value": 14000.0,
+   "cost": 0.0005361
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 7,
+   "truth": 14552,
+   "reply": "14000\nThe lake is dotted with thousands of islands due to glacially formed terrain, and a commonly cited figure is about 14,000 islands.",
+   "value": 14000.0,
+   "cost": 0.0004061
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 8,
+   "truth": 14552,
+   "reply": "14000\nIt's commonly cited that Lake of the Woods contains around 14,000 islands; the exact count varies with criteria for what counts as an island.",
+   "value": 14000.0,
+   "cost": 0.0004317
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "lake_of_woods",
+   "rep": 9,
+   "truth": 14552,
+   "reply": "14000\nThe lake has an extremely large number of small islets, with counts commonly cited around 14,000 islands. The exact number depends on the definition of \"island\" and water level fluctuations.",
+   "value": 14000.0,
+   "cost": 0.0003853
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 0,
+   "truth": 4095,
+   "reply": "4095\nMount Kinabalu is commonly listed at about 4,095 metres above sea level, making it the tallest peak in Malaysia. It sits on the island of Borneo and is a prominent feature of Kinabalu Park.",
+   "value": 4095.0,
+   "cost": 0.00020764999999999998
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 1,
+   "truth": 4095,
+   "reply": "4095\nMount Kinabalu’s summit is commonly cited at about 4,095 metres above sea level, though exact measurements can vary slightly by survey method.",
+   "value": 4095.0,
+   "cost": 0.00022725
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 2,
+   "truth": 4095,
+   "reply": "4095\nIt is commonly listed as 4,095 metres high above sea level, the highest peak in Malaysia and a prominent feature of Kinabalu National Park.",
+   "value": 4095.0,
+   "cost": 0.00017644999999999998
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 3,
+   "truth": 4095,
+   "reply": "4095\nMount Kinabalu's summit, Low's Peak, is widely cited at about 4,095 metres above sea level; some surveys vary by a metre or two depending on measurement methods.",
+   "value": 4095.0,
+   "cost": 0.00028165
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 4,
+   "truth": 4095,
+   "reply": "4095\nCommonly cited as 4,095 metres in height. It is the highest peak in Malaysia, located in Sabah on Borneo.",
+   "value": 4095.0,
+   "cost": 0.00025165
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 5,
+   "truth": 4095,
+   "reply": "4095\nIt is commonly cited as 4,095 metres above sea level. Some sources provide slightly different figures due to measurement methods, but 4,095 m is the standard figure.",
+   "value": 4095.0,
+   "cost": 0.00030645
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 6,
+   "truth": 4095,
+   "reply": "4095\nIt is the highest mountain in Malaysia, located in Sabah's Kinabalu National Park. The summit is commonly listed at 4,095 metres above sea level.",
+   "value": 4095.0,
+   "cost": 0.00025404999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 7,
+   "truth": 4095,
+   "reply": "4095\nIt is commonly cited as 4,095 metres above sea level.\nThis makes Mount Kinabalu the highest mountain in Malaysia.",
+   "value": 4095.0,
+   "cost": 0.00053285
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 8,
+   "truth": 4095,
+   "reply": "4095\nIt is commonly listed as 4,095 metres above sea level. It is the highest peak in Malaysia.",
+   "value": 4095.0,
+   "cost": 0.00042885
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kinabalu",
+   "rep": 9,
+   "truth": 4095,
+   "reply": "4095\nMount Kinabalu is widely cited as 4,095 metres above sea level, making it the highest peak in Malaysia and on the island of Borneo. Some sources note slight variations due to surveying, but 4,095 m is the commonly used figure.",
+   "value": 4095.0,
+   "cost": 0.00026205
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 0,
+   "truth": 1991,
+   "reply": "1991\nThe central span (main span) of the Akashi Kaikyo Bridge is 1,991 meters. The total bridge length is about 3,911 meters.",
+   "value": 1991.0,
+   "cost": 0.00028035
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 1,
+   "truth": 1991,
+   "reply": "1991\nThe central span is 1,991 metres long, making it the longest suspension bridge span in the world.",
+   "value": 1991.0,
+   "cost": 0.00027555
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 2,
+   "truth": 1991,
+   "reply": "1991\nThe central span of the Akashi Kaikyo Bridge is 1,991 meters long.\nThis makes it the longest suspension bridge main span in the world.",
+   "value": 1991.0,
+   "cost": 0.00033075
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 3,
+   "truth": 1991,
+   "reply": "1991\nThe central span is 1,991 meters long, the longest suspension-bridge span in the world.",
+   "value": 1991.0,
+   "cost": 0.00035194999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 4,
+   "truth": 1991,
+   "reply": "1991\nIt is the central (main) span of the Akashi Kaikyo Bridge.\nAt 1,991 metres, it is the longest suspension-bridge main span in the world.",
+   "value": 1991.0,
+   "cost": 0.0005119500000000001
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 5,
+   "truth": 1991,
+   "reply": "1991\nThe central span is 1,991 meters long, making it the longest suspension-bridge span in the world. It is the distance between the two main towers of the Akashi Kaikyo Bridge.",
+   "value": 1991.0,
+   "cost": 0.00023195
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 6,
+   "truth": 1991,
+   "reply": "1991\nThe central span of the Akashi Kaikyo Bridge measures 1,991 meters. It is the longest central span of any suspension bridge in the world.",
+   "value": 1991.0,
+   "cost": 0.00027955
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 7,
+   "truth": 1991,
+   "reply": "1991\nThe central span of the Akashi Kaikyo Bridge is 1991 metres, making it the longest main suspension-span in the world.",
+   "value": 1991.0,
+   "cost": 0.00025235
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 8,
+   "truth": 1991,
+   "reply": "1991\nThe central span is 1,991 meters long, the distance between the two main towers. It was the longest suspension bridge span in the world when it opened in 1998.",
+   "value": 1991.0,
+   "cost": 0.00023035
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "akashi",
+   "rep": 9,
+   "truth": 1991,
+   "reply": "1991\nThe central span of the Akashi Kaikyo Bridge is 1,991 meters, making it the longest main span of any suspension bridge.",
+   "value": 1991.0,
+   "cost": 0.00017595
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 0,
+   "truth": 12262,
+   "reply": "12262\nDeepest depth reached by the Kola Superdeep Borehole (SG-3) was 12,262 metres. Drilling reached that depth in 1989 before the project was halted in the early 1990s.",
+   "value": 12262.0,
+   "cost": 0.00043845
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 1,
+   "truth": 12262,
+   "reply": "12262\nIt reached about 12,262 meters (roughly 12.3 km) in 1989, making it the deepest artificial hole drilled to date.",
+   "value": 12262.0,
+   "cost": 0.00022805
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 2,
+   "truth": 12262,
+   "reply": "12262\nIt reached 12,262 metres (about 12.3 km) in 1989, the deepest borehole ever drilled on Earth. Drilling was halted in the 1990s due to high temperatures and rock instability.",
+   "value": 12262.0,
+   "cost": 0.00031085
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 3,
+   "truth": 12262,
+   "reply": "12262\nThe Kola Superdeep Borehole reached 12,262 metres in 1989, making it the deepest borehole ever drilled. The project was halted due to extreme heat and funding constraints.",
+   "value": 12262.0,
+   "cost": 0.00043565
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 4,
+   "truth": 12262,
+   "reply": "12262\nThe deepest depth reached by the Kola Superdeep Borehole SG-3 was about 12,262 meters (roughly 12.3 km), achieved in 1989 before drilling was halted.",
+   "value": 12262.0,
+   "cost": 0.00033404999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 5,
+   "truth": 12262,
+   "reply": "12262\nThe Kola Superdeep Borehole reached a final depth of 12,262 meters in 1989. It remains the deepest borehole ever drilled.",
+   "value": 12262.0,
+   "cost": 0.00025325
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 6,
+   "truth": 12262,
+   "reply": "12262\nIt reached about 12,262 meters (roughly 12.3 km) below the surface, in 1989. Drilling was halted in the early 1990s.",
+   "value": 12262.0,
+   "cost": 0.00038405
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 7,
+   "truth": 12262,
+   "reply": "12262\nReached 12,262 metres (about 12.3 km) in 1989. Drilling was halted due to extreme heat and rock conditions before deeper targets could be reached.",
+   "value": 12262.0,
+   "cost": 0.00033245
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 8,
+   "truth": 12262,
+   "reply": "12262\nThe Kola Superdeep Borehole (SG-3) reached a maximum depth of 12,262 metres in 1989, after which drilling stopped due to high temperatures and rock conditions making further progress impractical.",
+   "value": 12262.0,
+   "cost": 0.00020764999999999998
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "kola",
+   "rep": 9,
+   "truth": 12262,
+   "reply": "12262\nThe Kola Superdeep Borehole (SG-3) reached 12,262 meters in 1989, making it the deepest borehole ever drilled, before operations stopped due to extreme heat and rock conditions.",
+   "value": 12262.0,
+   "cost": 0.00025805
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 0,
+   "truth": 45.52,
+   "reply": "45.52\nThe Hope Diamond is commonly listed as weighing 45.52 carats; this is the standard weight cited by museums and reference works.",
+   "value": 45.52,
+   "cost": 0.00032875
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 1,
+   "truth": 45.52,
+   "reply": "45.52\nIt weighs 45.52 carats (about 9.10 g).\nThis is the widely cited weight of the Hope Diamond.",
+   "value": 45.52,
+   "cost": 0.00050795
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 2,
+   "truth": 45.52,
+   "reply": "45.52\nIt weighs 45.52 carats (about 9.10 g). This is the weight cited by the Smithsonian and most reputable sources.",
+   "value": 45.52,
+   "cost": 0.00038074999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 3,
+   "truth": 45.52,
+   "reply": "45.52\nThe Hope Diamond is widely cited as weighing 45.52 carats (about 9.1 g). This exact figure appears in gemology references.",
+   "value": 45.52,
+   "cost": 0.00045834999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 4,
+   "truth": 45.52,
+   "reply": "45.52\nIt is widely cited as weighing 45.52 carats (about 9.1 g). This is the standard figure used in most references.",
+   "value": 45.52,
+   "cost": 0.00027874999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 5,
+   "truth": 45.52,
+   "reply": "45.52\nMost sources cite the Hope Diamond as weighing 45.52 carats. \nIt is often rounded to about 45.5 carats in summaries.",
+   "value": 45.52,
+   "cost": 0.00045834999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 6,
+   "truth": 45.52,
+   "reply": "45.52\nThis is the finished weight after cutting, commonly listed as 45.52 carats. It is the figure widely cited by museums and gemological references.",
+   "value": 45.52,
+   "cost": 0.00050955
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 7,
+   "truth": 45.52,
+   "reply": "45.52\nIt is widely cited as 45.52 carats, roughly 9.1 grams.",
+   "value": 45.52,
+   "cost": 0.00037674999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 8,
+   "truth": 45.52,
+   "reply": "45.52\nIt weighs 45.52 carats (about 9.10 grams).\nThe Hope Diamond is the famous deep-blue diamond currently housed at the Smithsonian Institution.",
+   "value": 45.52,
+   "cost": 0.00058675
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "hope_diamond",
+   "rep": 9,
+   "truth": 45.52,
+   "reply": "45.52\nThe Hope Diamond weighs about 45.52 carats (roughly 9.1 g). It was cut from the larger Tavernier Blue, which originally weighed around 112 carats.",
+   "value": 45.52,
+   "cost": 0.00033355
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 0,
+   "truth": 1056006,
+   "reply": "1000000\nPublic sources say the sails are covered with more than a million ceramic tiles; using typical tile sizes and the shells’ surface area makes about a million a reasonable ballpark estimate.",
+   "value": 1000000.0,
+   "cost": 0.0007159
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 1,
+   "truth": 1056006,
+   "reply": "1056000\nThe roof sails are clad with about 1.056 million white ceramic tiles. The six shell structures are tiled individually, giving a total close to that figure.",
+   "value": 1056000.0,
+   "cost": 0.0007407
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 2,
+   "truth": 1056006,
+   "reply": "1056000\nThe shells are clad with about 1.056 million white ceramic tiles. This exact figure is commonly cited for the Opera House.",
+   "value": 1056000.0,
+   "cost": 0.0004307
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 3,
+   "truth": 1056006,
+   "reply": "1056000\nThe shells are clad with glazed ceramic tiles.\nA widely cited total is about 1,056,000 tiles for the roof sails.",
+   "value": 1056000.0,
+   "cost": 0.0004823
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 4,
+   "truth": 1056006,
+   "reply": "1000000\nWidely cited figure: the sails are clad with more than a million white ceramic tiles.",
+   "value": 1000000.0,
+   "cost": 0.0012467000000000001
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 5,
+   "truth": 1056006,
+   "reply": "1056000\nThe sails are clad with 1,056,000 white ceramic tiles. This exact figure is widely cited in sources describing the Opera House's tile cladding.",
+   "value": 1056000.0,
+   "cost": 0.0005099
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 6,
+   "truth": 1056006,
+   "reply": "1056000\nThe sails are clad with roughly a million glazed ceramic tiles, with common sources citing about 1.05 million in total.",
+   "value": 1056000.0,
+   "cost": 0.0006351
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 7,
+   "truth": 1056006,
+   "reply": "1056000\nThe shells are clad in roughly 20 cm square white ceramic tiles, giving a total around 1.05 million tiles.",
+   "value": 1056000.0,
+   "cost": 0.0003535
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 8,
+   "truth": 1056006,
+   "reply": "1056000\nAbout 1.056 million white ceramic tiles cover the sails, totaling roughly 10,560 square meters of tiled surface.",
+   "value": 1056000.0,
+   "cost": 0.0006095
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "opera_tiles",
+   "rep": 9,
+   "truth": 1056006,
+   "reply": "1056000\nThe roof sails are clad with ceramic tiles, and commonly cited figures put the total at about one million tiles (roughly 1.056 million) to cover the sails.",
+   "value": 1056000.0,
+   "cost": 0.0003831
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 0,
+   "truth": 594,
+   "reply": "592\nCrater Lake's maximum depth is about 592 meters (1,943 feet). It is commonly cited as the deepest lake in the United States, though exact depth can vary slightly with measurement method and water level.",
+   "value": 592.0,
+   "cost": 0.00030885
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 1,
+   "truth": 594,
+   "reply": "594\nCrater Lake’s deepest point is about 594 meters (roughly 1,949 feet), making it the deepest lake in the United States. Depth can vary slightly with water level and measurement method.",
+   "value": 594.0,
+   "cost": 0.00035925
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 2,
+   "truth": 594,
+   "reply": "594\nThe maximum depth is about 594 metres, making Crater Lake the deepest lake in the United States. This depth is the deepest point in the caldera formed by Mount Mazama’s eruption thousands of years ago.",
+   "value": 594.0,
+   "cost": 0.00046244999999999994
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 3,
+   "truth": 594,
+   "reply": "593\nCrater Lake's maximum depth is commonly cited as about 593 meters (roughly 1,946 feet), based on bathymetric surveys. This value is the standard USGS reference for the lake's deepest point.",
+   "value": 593.0,
+   "cost": 0.00038645
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 4,
+   "truth": 594,
+   "reply": "594\nCrater Lake's deepest point is about 594 meters. Surveys often cite a depth in the 592–594 meter range, with 594 m the figure most commonly reported.",
+   "value": 594.0,
+   "cost": 0.00025485
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 5,
+   "truth": 594,
+   "reply": "594\nCrater Lake's maximum depth is about 594 meters (roughly 1,950 feet). This depth is measured from the rim to the deepest point in the lake.",
+   "value": 594.0,
+   "cost": 0.00028005
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 6,
+   "truth": 594,
+   "reply": "592\nThe maximum depth is about 1,943 feet (approximately 592 meters). This depth is commonly cited for Crater Lake.",
+   "value": 592.0,
+   "cost": 0.00025085
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 7,
+   "truth": 594,
+   "reply": "594\nCrater Lake’s maximum depth is commonly cited as about 594 meters. Measurements vary slightly by method, but estimates cluster near 590–600 meters.",
+   "value": 594.0,
+   "cost": 0.00027844999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 8,
+   "truth": 594,
+   "reply": "594\nCrater Lake's deepest point is commonly cited at about 594 metres (roughly 1,940 feet). This depth is based on bathymetric measurements of the lake's caldera basin.",
+   "value": 594.0,
+   "cost": 0.00043605
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "crater_lake",
+   "rep": 9,
+   "truth": 594,
+   "reply": "594\nCrater Lake's maximum depth is about 594 meters (roughly 1,949 feet). This is the depth from the rim to the deepest point as measured by survey data.",
+   "value": 594.0,
+   "cost": 0.00030645
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 0,
+   "truth": 2080,
+   "reply": "2080\nIt weighs about 2,080 pounds (roughly 946 kg). This is the commonly cited weight in museum references, though exact measurements can vary by source.",
+   "value": 2080.0,
+   "cost": 0.0003819
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 1,
+   "truth": 2080,
+   "reply": "2080\nThe Liberty Bell weighs about 2,080 pounds; it is a large bronze bell from 1752, and that weight is commonly cited by historical sources.",
+   "value": 2080.0,
+   "cost": 0.0003815
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 2,
+   "truth": 2080,
+   "reply": "2080\nApproximately 2080 pounds. The exact weight isn’t precisely recorded; most sources list about 2000 pounds, with 2080 pounds being a common figure.",
+   "value": 2080.0,
+   "cost": 0.00040750000000000004
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 3,
+   "truth": 2080,
+   "reply": "2080\nMost sources list the Liberty Bell's weight at about 2,080 pounds (roughly 946 kg).",
+   "value": 2080.0,
+   "cost": 0.0003519
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 4,
+   "truth": 2080,
+   "reply": "2080\nThe Liberty Bell is widely cited as weighing about 2,080 pounds (roughly 950 kg). Exact weight varies slightly by source, but 2,080 lb is the standard figure.",
+   "value": 2080.0,
+   "cost": 0.0002567
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 5,
+   "truth": 2080,
+   "reply": "2080\nThe Liberty Bell is commonly listed as weighing about 2,080 pounds (roughly 946 kg). It’s a large cast bronze bell, historically noted for its size and significance.",
+   "value": 2080.0,
+   "cost": 0.0003323
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 6,
+   "truth": 2080,
+   "reply": "2080\nCommonly cited weight is about 2,080 pounds. This large bronze bell was cast in 1752 for the Pennsylvania Assembly and weighs roughly a ton.",
+   "value": 2080.0,
+   "cost": 0.00040750000000000004
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 7,
+   "truth": 2080,
+   "reply": "2080\nThe Liberty Bell is commonly listed as weighing about 2,080 pounds (roughly 946 kg). Some sources round it to around 2,000 pounds depending on measurement variations.",
+   "value": 2080.0,
+   "cost": 0.00030670000000000003
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 8,
+   "truth": 2080,
+   "reply": "2080\nApproximately 2,080 pounds. It is commonly cited as the bell’s weight.",
+   "value": 2080.0,
+   "cost": 0.0003755
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "liberty_bell",
+   "rep": 9,
+   "truth": 2080,
+   "reply": "2080\nMost sources list the Liberty Bell at about 2,080 pounds (roughly 946 kg). It is a large cast bronze bell from the 18th century.",
+   "value": 2080.0,
+   "cost": 0.0004591
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 0,
+   "truth": 7845,
+   "reply": "3800\nI estimate the bridge section to be about 3.8 km (3800 m) long. The Øresund Link total length is about 7.8 km, with the rest comprising the tunnel and the artificial island.",
+   "value": 3800.0,
+   "cost": 0.0014629999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 1,
+   "truth": 7845,
+   "reply": "7845\nThe bridge section is commonly cited as about 7.8 km long, specifically 7,845 metres, spanning from Peberholm to the Danish coast and excluding the tunnel and any islands.",
+   "value": 7845.0,
+   "cost": 0.0003338
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 2,
+   "truth": 7845,
+   "reply": "7845\nThe bridge section is about 7.845 km long (7,845 metres). The rest of the fixed link is a tunnel plus an artificial island, bringing the total length to about 15.9 km.",
+   "value": 7845.0,
+   "cost": 0.0007706
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 3,
+   "truth": 7845,
+   "reply": "4050\nThe Öresund Link is about 7,845 meters long in total. The bridge portion accounts for roughly four kilometers of that, around 4,050 meters.",
+   "value": 4050.0,
+   "cost": 0.0007414
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 4,
+   "truth": 7845,
+   "reply": "7845\nThe Øresund Bridge length is commonly given as about 7.8 km, i.e., 7,845 metres; the tunnel and the artificial island are separate parts of the fixed link.",
+   "value": 7845.0,
+   "cost": 0.0015374
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 5,
+   "truth": 7845,
+   "reply": "4000\nThe Øresund fixed link is about 7.845 km long in total; the bridge section is commonly cited as around 4.0 km, i.e., about 4,000 meters.",
+   "value": 4000.0,
+   "cost": 0.0013074
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 6,
+   "truth": 7845,
+   "reply": "2700\nThe Øresund Link is about 7.845 km long. The Drogden Tunnel is roughly 4.05 km and the artificial island is around 1.0–1.1 km, so the bridge-only length (excluding tunnel and island) is about 2.7 km.",
+   "value": 2700.0,
+   "cost": 0.0015966
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 7,
+   "truth": 7845,
+   "reply": "3790\nThe fixed link length is 7,845 m and the Drogden Tunnel is about 4,055 m, so the bridge portion is roughly 3,790 m (about 3.8 km).",
+   "value": 3790.0,
+   "cost": 0.0010522
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 8,
+   "truth": 7845,
+   "reply": "7845\nThe bridge section is about 7.845 km long, i.e. 7,845 metres. The total fixed link length is about 15.9 km, including the Drogden Tunnel and the approaches/island.",
+   "value": 7845.0,
+   "cost": 0.000541
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "oresund",
+   "rep": 9,
+   "truth": 7845,
+   "reply": "7845\nThe Öresund Bridge (the bridge section) is 7,845 meters long. The total Öresund Link, including the tunnel and island, is about 15.9 kilometers.",
+   "value": 7845.0,
+   "cost": 0.00046179999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 0,
+   "truth": 1410,
+   "reply": "676\nThe main span is 2,220 feet, about 676 metres. It was the longest single-span suspension bridge when it opened in 1981.",
+   "value": 676.0,
+   "cost": 0.0006881999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 1,
+   "truth": 1410,
+   "reply": "2220\nThe main span is about 2,220 metres. At the time of its completion it was one of the longest single-span suspension bridges in the world.",
+   "value": 2220.0,
+   "cost": 0.0003557999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 2,
+   "truth": 1410,
+   "reply": "1410\nThe Humber Bridge’s main span is about 1,410 metres (roughly 1.41 km), with a total length around 2,220 metres.",
+   "value": 1410.0,
+   "cost": 0.00038219999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 3,
+   "truth": 1410,
+   "reply": "1410\nThe Humber Bridge’s main span is about 1,410 metres (approximately 4,626 feet), which is commonly cited as its main-span length. It was one of the longest single-span suspension bridges when it opened in 1981.",
+   "value": 1410.0,
+   "cost": 0.00036299999999999993
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 4,
+   "truth": 1410,
+   "reply": "1410\nThe Humber Bridge’s main span is listed as 1,410 metres, i.e., about 1.41 km between the two towers.",
+   "value": 1410.0,
+   "cost": 0.0006621999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 5,
+   "truth": 1410,
+   "reply": "1410\nThe main span is the distance between the two main suspension towers, and it is about 1,410 metres. This value is commonly cited as the Humber Bridge's main span.",
+   "value": 1410.0,
+   "cost": 0.00038339999999999994
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 6,
+   "truth": 1410,
+   "reply": "1410\nThe main span is about 1,410 metres (approximately 4,626 feet). It was the longest single-span suspension bridge when it opened in 1981.",
+   "value": 1410.0,
+   "cost": 0.0003826
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 7,
+   "truth": 1410,
+   "reply": "1410\nThe main span is 1,410 metres long, measured between the two towers. It is one of the longest single-span suspension bridges in the world.",
+   "value": 1410.0,
+   "cost": 0.0003557999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 8,
+   "truth": 1410,
+   "reply": "1410\nThe main span between the two towers is 1,410 metres. It was the world's longest single-span suspension bridge when it opened in 1981.",
+   "value": 1410.0,
+   "cost": 0.00048379999999999994
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "humber",
+   "rep": 9,
+   "truth": 1410,
+   "reply": "2220\nThe Humber Bridge's main span between its two towers is 2,220 metres long.",
+   "value": 2220.0,
+   "cost": 0.0004786
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 0,
+   "truth": 501,
+   "reply": "501\nLake Tahoe's maximum depth is about 501 meters. This value comes from bathymetric surveys of the lake.",
+   "value": 501.0,
+   "cost": 0.0002239
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 1,
+   "truth": 501,
+   "reply": "501\nThe maximum depth of Lake Tahoe is about 501 meters. That corresponds to roughly 1,645 feet.",
+   "value": 501.0,
+   "cost": 0.00030030000000000004
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 2,
+   "truth": 501,
+   "reply": "501\nThe deepest point is about 501 meters (roughly 1,645 feet). Bathymetric surveys of Lake Tahoe have mapped its maximum depth at around this value.",
+   "value": 501.0,
+   "cost": 0.0003307
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 3,
+   "truth": 501,
+   "reply": "501\nLake Tahoe's maximum depth is about 501 meters (roughly 1,640 feet), at the deepest point in its glacially carved basin.",
+   "value": 501.0,
+   "cost": 0.0002015
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 4,
+   "truth": 501,
+   "reply": "501\nThe maximum depth of Lake Tahoe is about 501 meters (approximately 1,645 feet). This value comes from standard bathymetric surveys of the lake.",
+   "value": 501.0,
+   "cost": 0.00020229999999999998
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 5,
+   "truth": 501,
+   "reply": "501\nLake Tahoe’s deepest point is about 501 meters (roughly 1,645 feet), in its central basin.",
+   "value": 501.0,
+   "cost": 0.00027550000000000003
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 6,
+   "truth": 501,
+   "reply": "501\nLake Tahoe's deepest point is about 501 meters (approximately 1,645 feet). This depth is from bathymetric surveys of the lake bottom.",
+   "value": 501.0,
+   "cost": 0.0003295
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 7,
+   "truth": 501,
+   "reply": "501\nThe maximum depth of Lake Tahoe is about 501 meters (roughly 1,645 feet). This is the commonly cited deepest point, though measurements can vary slightly by method.",
+   "value": 501.0,
+   "cost": 0.00030590000000000006
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 8,
+   "truth": 501,
+   "reply": "501\nLake Tahoe's maximum depth is commonly cited as about 501 meters (roughly 1,645 feet).\nThis depth occurs at the deepest point in the lake's basin.",
+   "value": 501.0,
+   "cost": 0.0005103
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "tahoe",
+   "rep": 9,
+   "truth": 501,
+   "reply": "501\nLake Tahoe's maximum depth is about 501 meters.\nThis depth is derived from bathymetric surveys of the lake.",
+   "value": 501.0,
+   "cost": 0.0003267
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 0,
+   "truth": 230,
+   "reply": "230\nLoch Ness' maximum depth is commonly cited as about 230 metres (roughly 755 feet). This figure comes from sonar surveys and depth charts.",
+   "value": 230.0,
+   "cost": 0.0005091
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 1,
+   "truth": 230,
+   "reply": "226\nThe maximum depth is commonly reported as 226 metres based on bathymetric surveys. Some sources round this to about 230 metres.",
+   "value": 226.0,
+   "cost": 0.0004047
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 2,
+   "truth": 230,
+   "reply": "226\nThis is the commonly cited maximum depth from bathymetric surveys. Depth is about 226 meters (roughly 741 feet).",
+   "value": 226.0,
+   "cost": 0.0003787
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 3,
+   "truth": 230,
+   "reply": "230\nLoch Ness is commonly cited as having a maximum depth of about 230 metres. Some surveys show the deepest point closer to 226 metres.",
+   "value": 230.0,
+   "cost": 0.0005334999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 4,
+   "truth": 230,
+   "reply": "230\nLoch Ness is widely cited as about 226–230 meters deep, with modern sonar surveys indicating a deepest point around 230 meters.",
+   "value": 230.0,
+   "cost": 0.00030270000000000004
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 5,
+   "truth": 230,
+   "reply": "230\nLoch Ness is routinely listed as having a maximum depth of roughly 230 metres, based on hydrographic surveys.",
+   "value": 230.0,
+   "cost": 0.0002751
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 6,
+   "truth": 230,
+   "reply": "230\nCommonly cited maximum depth of Loch Ness is about 230 metres (roughly 755 feet), based on bathymetric surveys of the loch.",
+   "value": 230.0,
+   "cost": 0.0002015
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 7,
+   "truth": 230,
+   "reply": "226\nThe maximum depth of Loch Ness is commonly cited as about 226 metres, based on hydrographic surveys. Some sources list values up to around 230 metres depending on the measurement method.",
+   "value": 226.0,
+   "cost": 0.0003319
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 8,
+   "truth": 230,
+   "reply": "226\nMeasured by sonar surveys, Loch Ness has a maximum depth of about 226 metres.\nThe depth varies along the loch, with the deepest point near this value.",
+   "value": 226.0,
+   "cost": 0.0003815
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "loch_ness",
+   "rep": 9,
+   "truth": 230,
+   "reply": "226\nApproximately 226 metres (about 741 feet) at its deepest point. This depth is widely cited from bathymetric surveys of the loch.",
+   "value": 226.0,
+   "cost": 0.00022749999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 0,
+   "truth": 420.5,
+   "reply": "421\nThe Jin Mao Tower in Shanghai is 421 metres tall. It is an 88-floor skyscraper completed in 1999 and a landmark of the Pudong skyline.",
+   "value": 421.0,
+   "cost": 0.00033085
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 1,
+   "truth": 420.5,
+   "reply": "421\nThe Jin Mao Tower is commonly listed at 421 meters in architectural height, making it one of Shanghai’s tallest buildings.",
+   "value": 421.0,
+   "cost": 0.00027565
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 2,
+   "truth": 420.5,
+   "reply": "421\nThe Jin Mao Tower is commonly listed at about 421 metres tall to the tip. Some references quote a lower figure if the antenna is omitted.",
+   "value": 421.0,
+   "cost": 0.00038005
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 3,
+   "truth": 420.5,
+   "reply": "421\nThe Jin Mao Tower is about 421 metres tall. It is an 88-storey skyscraper in Shanghai's Lujiazui area, completed in 1999.",
+   "value": 421.0,
+   "cost": 0.00038245
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 4,
+   "truth": 420.5,
+   "reply": "421\nJin Mao Tower is commonly listed at 421 meters tall (about 1,380 ft). It has 88 floors and was completed in 1999.",
+   "value": 421.0,
+   "cost": 0.00035604999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 5,
+   "truth": 420.5,
+   "reply": "421\nWidely cited as 421 meters tall, making it one of Shanghai's tallest buildings.\nThis height typically includes the top of the spire.",
+   "value": 421.0,
+   "cost": 0.0005592499999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 6,
+   "truth": 420.5,
+   "reply": "421\nThe Jin Mao Tower is commonly listed as 421 meters tall (including its spire). It was completed in 1999 and was Shanghai’s tallest building for several years.",
+   "value": 421.0,
+   "cost": 0.00030565000000000003
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 7,
+   "truth": 420.5,
+   "reply": "421\nCommon sources list the Jin Mao Tower's height as 421 meters (about 1,380 feet). It has 88 floors.",
+   "value": 421.0,
+   "cost": 0.00037925
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 8,
+   "truth": 420.5,
+   "reply": "421\nThe commonly cited height is 421 metres to the roof. The tower was completed in 1999.",
+   "value": 421.0,
+   "cost": 0.00027445
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "jin_mao",
+   "rep": 9,
+   "truth": 420.5,
+   "reply": "421\nCommon sources list the Jin Mao Tower at 421 meters tall (the architectural height). It is located in Shanghai's Pudong district.",
+   "value": 421.0,
+   "cost": 0.00025165
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 0,
+   "truth": 5655,
+   "reply": "5650\nCommonly cited value for Lake Vänern’s surface area is about 5,650 square kilometres. It is Sweden’s largest lake and ranks among the largest in Europe by area.",
+   "value": 5650.0,
+   "cost": 0.0003069
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 1,
+   "truth": 5655,
+   "reply": "5650\nLake Vänern is Sweden's largest lake, and its surface area is commonly listed as about 5,650 square kilometres. The exact value varies slightly with water level and measurement method.",
+   "value": 5650.0,
+   "cost": 0.0004097
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 2,
+   "truth": 5655,
+   "reply": "5650\nRoughly 5,650 square kilometers. Vänern is Sweden's largest lake by area, about 5.6 thousand square kilometers.",
+   "value": 5650.0,
+   "cost": 0.0004576999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 3,
+   "truth": 5655,
+   "reply": "5650\nLake Vänern is the largest lake in Sweden (and Europe by area), with a commonly cited surface area of about 5650 square kilometers. The value can vary slightly with water level and seasonal changes.",
+   "value": 5650.0,
+   "cost": 0.0003600999999999999
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 4,
+   "truth": 5655,
+   "reply": "5650\nVänern's area is commonly cited as about 5,650 square kilometres. It is the largest lake in Sweden by surface area.",
+   "value": 5650.0,
+   "cost": 0.00035489999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 5,
+   "truth": 5655,
+   "reply": "5650\nIt covers about 5,650 square kilometres, making it the largest lake in Sweden and the EU.\nEstimates vary slightly, but 5,650 km² is a widely cited value.",
+   "value": 5650.0,
+   "cost": 0.00046129999999999994
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 6,
+   "truth": 5655,
+   "reply": "5650\nCommon figures place Lake Vänern’s area at about 5,650 square kilometers, though estimates can range roughly 5,520–5,700 km² depending on water level.",
+   "value": 5650.0,
+   "cost": 0.0004097
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 7,
+   "truth": 5655,
+   "reply": "5655\nVänern is Sweden’s largest lake, and its surface area is commonly cited as about 5,655 square kilometers (values vary slightly with water level and source).",
+   "value": 5655.0,
+   "cost": 0.0002805
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 8,
+   "truth": 5655,
+   "reply": "5650\nIt is commonly cited as about 5,650 square kilometres. This makes Vänern the largest lake in Sweden and in the European Union by surface area.",
+   "value": 5650.0,
+   "cost": 0.00038169999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "vanern",
+   "rep": 9,
+   "truth": 5655,
+   "reply": "5650\nLake Vänern is commonly listed as about 5,650 square kilometers in area, though the exact figure can vary slightly with water level. It is the largest lake in Sweden and Western Europe.",
+   "value": 5650.0,
+   "cost": 0.00023129999999999998
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 0,
+   "truth": 6514,
+   "reply": "6500\nThe building is commonly cited as having about 6,500 windows. The exact count depends on how panes are counted and any renovations.",
+   "value": 6500.0,
+   "cost": 0.00037935
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 1,
+   "truth": 6514,
+   "reply": "6500\nCommon estimates put the number around 6,500 windows across the 102 floors. The exact total varies depending on whether skylights or grouped panes are counted as windows.",
+   "value": 6500.0,
+   "cost": 0.00027975
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 2,
+   "truth": 6514,
+   "reply": "6500\nThis is a commonly cited trivia figure. The facade consists of many repeating window bays across 102 floors, totaling roughly 6,500 windows.",
+   "value": 6500.0,
+   "cost": 0.00061055
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 3,
+   "truth": 6514,
+   "reply": "6500\nIt is commonly cited as having about 6,500 windows across its 102 floors. Counts vary depending on whether individual panes, skylights, and exterior features are included.",
+   "value": 6500.0,
+   "cost": 0.00038255
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 4,
+   "truth": 6514,
+   "reply": "6500\nIt is commonly cited that the Empire State Building has about 6,500 windows, spread across its 102 floors. This figure reflects the large number of exterior panes along the facade.",
+   "value": 6500.0,
+   "cost": 0.00035774999999999994
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 5,
+   "truth": 6514,
+   "reply": "6500\nA commonly cited figure places the Empire State Building's windows at about 6,500 across its 102 floors.\nExact counts vary with renovations and how windows are tallied, but 6,500 is a widely repeated estimate.",
+   "value": 6500.0,
+   "cost": 0.00046374999999999997
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 6,
+   "truth": 6514,
+   "reply": "6500\nCommon estimates put the exterior windows around 6,500; the exact figure varies with counting conventions (pane-by-pane vs window-unit counts) across the 102-story building.",
+   "value": 6500.0,
+   "cost": 0.00035695
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 7,
+   "truth": 6514,
+   "reply": "6500\nRoughly six and a half thousand windows; the 102-floor exterior with many panes yields thousands of windows, and 6,500 is a commonly cited estimate.",
+   "value": 6500.0,
+   "cost": 0.00038215
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 8,
+   "truth": 6514,
+   "reply": "6500\nIt's commonly cited as having about 6,500 windows across its 102 floors.",
+   "value": 6500.0,
+   "cost": 0.00027295
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "esb_windows",
+   "rep": 9,
+   "truth": 6514,
+   "reply": "6500\nMost credible sources cite roughly 6,500 exterior windows on the Empire State Building. The exact count can vary depending on whether interior windows or skylights are included.",
+   "value": 6500.0,
+   "cost": 0.00017695
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 0,
+   "truth": 126,
+   "reply": "126\nMallard achieved 126 mph during its 1938 record run on the East Coast Main Line in Britain, a speed widely cited as the official world speed record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.0003073
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 1,
+   "truth": 126,
+   "reply": "126\nThis is the official world speed record for a steam locomotive. Mallard reached 126 mph on the East Coast Main Line in 1938 (about 203 km/h).",
+   "value": 126.0,
+   "cost": 0.0005109
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 2,
+   "truth": 126,
+   "reply": "126\nIt reached 126 mph (203 km/h) in 1938 on the East Coast Main Line, setting the official steam locomotive speed record.",
+   "value": 126.0,
+   "cost": 0.0002781
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 3,
+   "truth": 126,
+   "reply": "126\nMallard reached 126 mph (203 km/h) on July 3, 1938, on the East Coast Main Line, setting the world speed record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.0002305
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 4,
+   "truth": 126,
+   "reply": "126\nReached 126 mph (203 km/h) during a record run on the East Coast Main Line in July 1938; this is the official world speed record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.00046089999999999993
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 5,
+   "truth": 126,
+   "reply": "126\nIt reached 126 mph on 3 July 1938 on Britain's East Coast Main Line, and this remains the official world speed record for a steam locomotive.",
+   "value": 126.0,
+   "cost": 0.00048409999999999995
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 6,
+   "truth": 126,
+   "reply": "126\nMallard's official record speed is 126 mph (203 km/h) on Stoke Bank in July 1938. Some sources note 125.9 mph, but 126 mph is the widely cited figure.",
+   "value": 126.0,
+   "cost": 0.0004117
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 7,
+   "truth": 126,
+   "reply": "126\nThe Mallard reached 126 mph during its 1938 record run on the East Coast Main Line. This speed is recognized as the world speed record for a steam locomotive and remains the fastest validated speed for a steam engine.",
+   "value": 126.0,
+   "cost": 0.0003357
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 8,
+   "truth": 126,
+   "reply": "126\nMallard reached 126 mph (about 203 km/h) during a high-speed test on the LNER East Coast Main Line in 1938, setting the official world speed record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.00028369999999999996
+  },
+  {
+   "model": "gpt-5-nano",
+   "item": "mallard",
+   "rep": 9,
+   "truth": 126,
+   "reply": "126\nMallard reached 126 mph during a 1938 record run on the East Coast Main Line near Grantham. This is the widely accepted official world speed record for steam locomotives.",
+   "value": 126.0,
+   "cost": 0.0003073
+  }
+ ]
+}
