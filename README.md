@@ -13,6 +13,8 @@
 - One honest wrong answer from a weaker model moved gpt-5-mini 29% of the way toward it. Saying the peer was weaker cut that to 16%, not to 0.
 - Yes/no tasks the model could check (sunk cost, conformity) showed no effect at all.
 
+**Write-ups.** Plain-language versions are on my site: [Pressure only moves an AI when it has to guess](https://purviratnani.com/behavior-x-ai#pressure) (anchoring, team pressure and the nulls) and [Can a store trick an AI shopper?](https://purviratnani.com/behavior-x-ai#dark-patterns) (defaults).
+
 ## Summary
 
 The agent under test was always `gpt-5-mini` at temperature 1. Where a grader scored replies, it was `gpt-5-mini` at temperature 0.
