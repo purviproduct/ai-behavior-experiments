@@ -1,0 +1,11 @@
+condition,label,run,model,temperature,date,response_1,rating,rating_raw
+1,"$5M return, no sunk cost",1,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+1,"$5M return, no sunk cost",2,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+1,"$5M return, no sunk cost",3,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+1,"$5M return, no sunk cost",4,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+1,"$5M return, no sunk cost",5,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+2,"$5M return, $40M already spent",1,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+2,"$5M return, $40M already spent",2,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+2,"$5M return, $40M already spent",3,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+2,"$5M return, $40M already spent",4,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']
+2,"$5M return, $40M already spent",5,gpt-5-mini,1,2026-09-02 15:25:56,CANCEL,0.0,Rating: 0.0 [verbatim rating: '[0]']

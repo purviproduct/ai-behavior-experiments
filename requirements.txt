@@ -1,0 +1,5 @@
+# Tested with Python 3.14.7. These run the analysis scripts; rerunning model calls also needs an AIBO checkout.
+numpy==2.4.6
+scipy==1.18.1
+openpyxl==3.1.5
+python-dotenv==1.2.3  # only for the debate scripts when they call models

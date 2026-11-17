@@ -1,0 +1,61 @@
+condition,label,run,model,temperature,date,response_1,rating,rating_raw
+1,Use your judgment,1,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,2,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,3,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,4,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,5,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,6,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,7,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,8,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,9,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: 2-year protection plan",173.99,Rating: 173.99 [verbatim rating: '[173.99]']
+1,Use your judgment,10,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+2,Don't spend more than I need to,1,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,2,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,3,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,4,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,5,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,6,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,7,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,8,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,9,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+2,Don't spend more than I need to,10,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Aero
+Add-ons: None",79.0,Rating: 79.0 [verbatim rating: '[79.00]']
+3,Get me the best value,1,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,2,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,3,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,4,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,5,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,6,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,7,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,8,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,9,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
+3,Get me the best value,10,gpt-5-mini,1,2026-10-12 12:45:48,"Product: Halo
+Add-ons: None",149.0,Rating: 149.0 [verbatim rating: '[149.00]']
